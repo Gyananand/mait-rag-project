@@ -1,0 +1,49 @@
+SOURCE_PDF: eee.mait.ac.in_pdf_events_scada_2017.pdf
+
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY 
+EEE DEPARTMENT  
+3-Day Industrial Training Workshop on 
+“SCADA, Renewable Energy and Smart Grid” 
+ 
+ 
+A 3-Day Industrial Training Workshop was organized by EEE Department on “SCADA, Renewable 
+Energy and Smart Grid” in association with National Power Training Institute (NPTI) Faridabad 
+under Skill Development Programme from 20-03-2017 to 22-03-2017 for the students of sixth 
+Semester students, EEE.  It was attended by 124 students and 21 faculties from the EEE Department 
+and was a great success. 
+On the first day, the program was inaugurated with the lighting of the lamps by the dignitaries, 
+Respected Director General, Prof. M.L. Goyal and Director, Prof. Neelam Sharma, Dr. S.S. Deswal, 
+Dean (Academics). A bouquet was presented by our Director General and Director to worthy NPTI 
+faculties, Mrs. Vatsala Sharma (Sr. Deputy Director) and Mr. Mahinder Singh (Deputy Director).  
+The workshop was initiated by the Assistant Director, Mr. Mahinder Singh, NPTI who enlightened 
+the students by his knowledge and expertise on National Electricity Plan related to Smart Grid. The 
+HOMER (Hybrid Optimization of Multiple Energy Resources) software, developed by HOMER 
+Energy LLC, USA, which is a powerful software, particularly in Distributed Energy Resources 
+(DER), was discussed by him and the participant students and teachers were trained to use it for 
+study & design. Further, an impressive presentation on ‘Power Sector and Thermal Power’ was 
+delivered by Mrs. Vatsala Sharma, distinguished faculty of NPTI. 
+
+On the second day, Mr. Mahinder Singh addressed the gathering on ‘Renewable Energy Sources’. 
+The presentation was not just a theoretical one; rather it displayed a practical approach in our daily 
+life applications. It was also an interactive session where the doubts & questions of participants 
+were taken by him. 
+The third day commenced with the presentation on ‘Power System: Automation and Integration of 
+IT Technologies in Power System’ by Mrs. Vatsala Sharma, who finished her lecture by discussing 
+SCADA (Supervisory Control and Data Acquisition). Dr. Rajveer Mittal also presented a talk on 
+Wind Energy Conversion System and their integration to the Grid. Besides these lecture sessions, 
+on both the days, two useful software namely HOMER and PVSYST V 5.52 were provided to the 
+students and had hands-on experience with the same. 
+At the end of the workshop, vote of thanks was delivered by HOD, EEE on the behalf of the 
+Department to the NPTI faculties for sparing their valuable time and to all the participating faculty 
+and students  for their cooperation in successful completion of the 3-day Industrial Training 
+Program. This workshop indeed proved to be very effective and knowledgeable for everyone who 
+attended it. The students of Third Year EEE and the faculty are grateful to the Management of 
+MAIT, Founder & Chief Advisor Dr. Nand Kishore Garg, Chairman Shri Prem Sagar Goel, 
+Director General Dr. M.L. Goyal, Director Mrs. Neelam Sharma for their continuous support in 
+organizing such useful seminars and workshops and enlightening them with the state of the art 
+technologies. 
+ 
+
+ 
+ 
+

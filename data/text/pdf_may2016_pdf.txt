@@ -1,0 +1,59 @@
+SOURCE_PDF: may2016_pdf.pdf
+
+National Seminar on “Advancements in Power, Energy & Control Systems”  
+ 
+ 
+The Department of Electrical & Electronics Engineering of Maharaja Agrasen 
+Institute of Technology organized a One-day National Seminar on “Advancements in Power, 
+Energy & Control Systems” on May 2, 2016. It was successfully conducted by the Convener, 
+Dr. Rajveer Mittal, HOD, EEE Department and attended by over 60 student delegates, more 
+than 30 Assistant Professors & Associate Professors and 4 Professors of eminence. 
+ 
+ 
+The thrust area of the Seminar was the Power & Energy and their Control System 
+with a view to meet the current challenges in these sectors. Despite the encouraging growth 
+trajectory in the energy space over the last few years, the Indian Power Sector has still not 
+been able to induce & sustain the required capacity addition, matching the ever-growing 
+power demand of the country. Full security concerns, financial health of State Discoms, 
+under procurement of Power by States, Inimical Financing Environment and Policy Paralysis 
+are the main challenges in this sector. With a view to briefly discuss these aspects, Prof. D.K. 
+Jain, Chairman of Electrical (DCRUST) and Prof. Parmod Kumar, Ex-HOD, DTU were the 
+key speakers in the Seminar, which was sponsored by Defence Research & Development 
+Organisation, Ministry of Defence, Government of India. 
+ 
+ 
+The Seminar was inaugurated by the Lighting of the lamp by distinguished guest 
+speakers and host office bearers of EEE & ECE Departments. Dr. Rajveer Mittal, HOD, EEE 
+Department and also the Convener of the Seminar, delivered the welcome address and 
+emphasized the need for holding such a Seminar. The program was anchored and conducted 
+by the Co-convener Ms. Lovely Goyal, Assistant Professor, EEE Department. Prof. M.L. 
+Goyal, Director, MAIT shared his views and experiences with the august audience.  
+ 
+ 
+In the first session, Prof. D.K. Jain addressed the gathering with his vast experience in 
+the field of Power & Energy scenario globally and in particular the demand and supply gap of 
+Power Production in India and how to overcome it by increasing the non-conventional energy 
+sources and making its contribution a sizable percentage of the total production. He laid 
+emphasis on potential of solar energy, wind energy and other forms and the need for more 
+and more contribution at house-hold and industries level to boost the same.  
+ 
+
+ 
+In the second session, speaker Prof. D.K. Jain gave the presentation on the topic 
+“Smart Grids”. He talked about the differences of conventional and smart grids. He also 
+discussed about the recent development in this field. Smart grids are those electrical grids 
+which have a number of operational and energy measures like smart meters, smart 
+appliances, renewable energy resources and energy-efficient resources. He said that the 
+dominant forms such as wind power and solar power are highly variable (giving an example 
+of the loss in power generation of solar plant in Europe due to one-week cloud-cover). So the 
+need for more sophisticated control systems and smart power grids is the urgent need of the 
+home. The following features of smart grid, namely (1) More Reliability, (2) Flexibility in 
+Topology of Network (bidirectional), (3) Higher Efficiency, (4) Effective load balancing, (5) 
+Peak Curtailment and Pricing, (6) Increased sustainability due to Solar & Wind, (7) 
+Systematic communication between supplier & consumer, (8) Demand response support and 
+provide plant form for advanced services.  
+ 
+ 
+ 
+ 
+

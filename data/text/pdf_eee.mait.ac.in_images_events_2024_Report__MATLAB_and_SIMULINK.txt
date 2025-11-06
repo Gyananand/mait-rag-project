@@ -1,0 +1,68 @@
+SOURCE_PDF: eee.mait.ac.in_images_events_2024_Report__MATLAB_and_SIMULINK.pdf
+
+Electrical & Electronics Engineering 
+Workshop on MATLAB and SIMULINK   
+The workshop on MATLAB and SIMULINK was organized by the Electrical & Electronics 
+Engineering department, MAIT from the 7-9th May 2024. The event aimed to provide faculty 
+and staff members with a comprehensive understanding and practical knowledge of MATLAB 
+and SIMULINK, an essential tool for engineering education and research. The keynote speakers 
+- Mr. Varun Srivastav, Dr. Monika Gupta and Prof Rajveer Mittal shared their valuable insights 
+about the software and its application in engineering. Ms. Supriya Sharma, as the faculty 
+coordinator, ensured the seamless execution of the workshop. 
+ 
+The primary objective of the workshop was to equip the faculty and staff with the skills needed 
+to integrate MATLAB and SIMULINK into their teaching and research activities. The program 
+sought to enhance the participants' ability to use these tools for solving complex engineering 
+problems, thereby improving the quality of education and research outputs. 
+ 
+The event commenced with an inaugural speech by Dr. Monika Gupta, Head of Department 
+EEE MAIT. She emphasized on the importance of keeping abreast with modern engineering 
+tools and technologies to maintain the institute's academic excellence. The first day featured an 
+introduction to MATLAB. Mr. Varun Srivastav, an expert on MATLAB conducted the sessions. 
+Topics covered included the basics of MATLAB, its interface, and fundamental programming 
+concepts and latest toolbox offered by MATLAB. The Hands-on training sessions post lunch 
+allowed participants to familiarize themselves with the environment and execute basic 
+commands    and scripts. All the participants later, enrolled in the certified courses offered by 
+MATLAB. 
+ 
+The second day focused on some advanced features of MATLAB, including data visualization, 
+matrix operations, and advanced mathematical functions. Prof. Rajveer Mittal, a senior 
+professor in Maharaja Agrasen Institute of Technology led the session. Members of staff and 
+faculty engaged in practical exercises that illustrated the application of these features in solving 
+real-world engineering problems. Numerous case studies were discussed and a fruitful 
+interactive discussion happened.  
+ 
+The final day was dedicated to SIMULINK by speaker-Dr. Monika Gupta, HOD(EEE). 
+Participants were introduced to the SIMULINK environment, model creation, and simulation 
+techniques. The hands-on session included building and simulating dynamic systems models, 
+highlighting SIMULINK's utility in control systems, signal processing, and other engineering 
+domains. Feedbacks were taken by the participants about the workshop and their progress about 
+the MATLAB were discussed 
+ 
+The workshop was highly successful in achieving its objectives. Faculty members expressed 
+their appreciation for the detailed and practical approach of the sessions. The training provided 
+them with the confidence and skills to incorporate MATLAB and SIMULINK into their 
+curriculum and research projects. Participants provided positive feedback, noting the clarity of 
+instruction and the practical applicability of the knowledge gained. Suggestions for future 
+workshops included extending the duration to cover more advanced topics and providing 
+additional resources for continued learning. 
+
+ 
+ 
+   
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+

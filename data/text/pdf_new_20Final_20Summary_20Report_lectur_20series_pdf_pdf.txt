@@ -1,0 +1,288 @@
+SOURCE_PDF: new_20Final_20Summary_20Report_lectur_20series_pdf_pdf.pdf
+
+Summary Report: Expert Lecture Series (Even Semester 2024–25) 
+Department of Electronics and Communication Engineering, Maharaja Agrasen Institute of Technology 
+The Department of Electronics and Communication Engineering at Maharaja Agrasen Institute of Technology organized a 3-lecture expert 
+series during the even semester of the academic year 2024–25 for 3rd-year students. The lectures were delivered by Mr. Vaibhav Mishra 
+and Mr. Deepanshu, distinguished professionals from Aujas Company. 
+The series focused on key topics from the subject VHDL Programming (ECE-306T), aiming to bridge the gap between industry and 
+academia. The sessions offered students valuable exposure to FPGA technology, Verilog HDL, and hardware design using HDL and 
+Python, combining theoretical concepts with practical applications in VLSI and Embedded Systems. 
+The initiative encouraged students to engage with real-world tools, methodologies, and design workflows relevant to today’s semiconductor and 
+embedded systems industry. 
+ 
+S. 
+No. Date 
+Topic / Title 
+ 
+Speaker & 
+Organization 
+ 
+ 
+Venue & 
+Time 
+ 
+ 
+No. of 
+Students 
+Coordinators 
+Key Highlights / Outcomes 
+1 
+29th 
+Jan 
+2025 
+“Introduction to 
+FPGA” 
+ 
+ 
+Mr. Vaibhav 
+Mishra, Aujas 
+Company 
+ 
+Room 422, 
+2:00 PM – 
+3:00 PM 
+ 
+ 
+ 
+18 
+Dr. Anamika Jain 
+Covered FPGA architecture, design 
+flow, applications, and tools. Students 
+learned about FPGA use-cases in VLSI 
+and Embedded Systems. 
+2 
+20th 
+Feb 
+2025 
+“Introduction to 
+Verilog” 
+ 
+ 
+Mr. Deepanshu, 
+Aujas Company 
+ 
+ 
+Room 443, 
+11:30 AM – 
+12:30 PM 
+ 
+ 
+ 
+19 
+Dr. Anamika Jain 
+Introduced Verilog HDL syntax, 
+modeling styles, and simulation. 
+Strengthened understanding of HDL-
+based digital design. 
+3 
+9th 
+Apr 
+“Hardware Design 
+using HDL and 
+ Mr. Vaibhav 
+Mishra & Mr. 
+ Seminar Hall 
+401B, 11:00 
+ 40 
+Dr. Anamika Jain, 
+Dr. Sumedha 
+Focused on integrating HDL and 
+Python for FPGA design and 
+
+S. 
+No. Date 
+Topic / Title 
+ 
+Speaker & 
+Organization 
+ 
+ 
+Venue & 
+Time 
+ 
+ 
+No. of 
+Students 
+Coordinators 
+Key Highlights / Outcomes 
+2025 Python on FPGA”  
+ 
+Deepanshu, Aujas 
+Company 
+ 
+ 
+AM – 1:00 
+PM 
+ 
+ 
+ 
+Gupta 
+verification. Provided practical 
+exposure to hardware design and 
+simulation workflows. 
+Overall Summary: 
+The 3-lecture expert series on VHDL and FPGA-based Hardware Design successfully bridged theoretical concepts with industry 
+applications. Students gained valuable insights into FPGA architecture, Verilog HDL, and Python integration, enhancing their skills for 
+VLSI and Embedded Systems projects. 
+ 
+Coordinator: 
+Dr. Anamika Jain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Report on Expert Lecture Series (Odd Semester 2024–25) 
+Department of Electronics and Communication Engineering, Maharaja Agrasen Institute of Technology 
+The Department of Electronics and Communication Engineering at Maharaja Agrasen Institute of Technology organized a 5-lecture expert 
+series during the odd semester of the academic year 2024–25 for 3rd-year students. The lectures were delivered by Mr. Vaibhav Mishra 
+and Mr. Deepanshu, distinguished professionals from Aujas Company. 
+This expert lecture series focused on key topics from the subject Microelectronics (ECC-305) in the 5th semester. The initiative aimed to bridge 
+the gap between industry and academia, providing students with exposure to VLSI design methodologies, IC fabrication technologies, EDA 
+tools, and circuit simulation techniques. Through these sessions, students gained valuable insights into practical workflows, modern 
+semiconductor trends, and professional design practices used in the microelectronics industry. 
+Summary of Expert Lecture Series 
+S. 
+No. Date 
+Topic / Title 
+Speaker & 
+Organization 
+Venue / Mode 
+& Time 
+No. of 
+Students Coordinators 
+Key Highlights / Outcomes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+22nd 
+Aug 
+2024 
+“Introduction to 
+Microelectronics and VLSI 
+Design Flow” 
+Mr. Vaibhav 
+Mishra, Aujas 
+Company 
+Room 446, 
+12:00 PM – 
+1:00 PM 
+35 
+Dr. Anamika 
+Jain 
+Provided an overview of microelectronics, VLSI 
+methodologies, front-end & back-end design flows, 
+and career opportunities in semiconductors. 
+2 
+10th 
+Sep 
+2024 
+“IC Fabrication 
+Technologies” 
+Mr. Vaibhav 
+Mishra, Aujas 
+Company 
+Room 446, 
+12:00 PM – 
+1:00 PM 
+37 
+Dr. Anamika 
+Jain 
+Covered IC fabrication steps—oxidation, diffusion, 
+lithography, etching, and deposition. Emphasized 
+process precision and advancements in nanometer-
+scale technologies. 
+3 
+17th 
+“VLSI Design Flow from 
+Mr. Deepanshu, 
+Room 446, 
+30 
+Dr. Anamika 
+Explained the complete VLSI design cycle from RTL 
+
+S. 
+No. Date 
+Topic / Title 
+Speaker & 
+Organization 
+Venue / Mode 
+& Time 
+No. of 
+Students Coordinators 
+Key Highlights / Outcomes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sep 
+2024 
+RTL Specification to GDS” Aujas Company 
+12:00 PM – 
+1:00 PM 
+Jain 
+coding to GDS file generation. Discussed front-end 
+and back-end stages, logic optimization, and 
+verification. 
+4 
+22nd 
+Oct 
+2024 
+“Introduction to EDA 
+Tools” 
+Mr. Deepanshu, 
+Aujas Company 
+Room 446, 
+12:00 PM – 
+1:00 PM 
+25 
+Dr. Anamika 
+Jain 
+Introduced major EDA tools for design, simulation, 
+and verification. Explained front-end and back-end 
+automation and industry applications. 
+5 
+5th 
+Nov 
+2024 
+“Schematic Entry and 
+Digital Circuit Simulation” 
+Mr. Vaibhav 
+Mishra, Aujas 
+Company 
+Online (Google 
+Meet), 7:00 PM 
+– 8:00 PM 
+40 
+Dr. Anamika 
+Jain 
+Demonstrated schematic entry, digital circuit 
+creation, and simulation techniques. Emphasized 
+verification, debugging, and real-world design 
+practices. 
+ 
+Overall Summary: 
+The Expert Lecture Series on Microelectronics (ECC-305) provided an excellent learning platform for students to connect classroom theory 
+with industrial practices. Through these five lectures, participants gained practical exposure to VLSI design flow, IC fabrication, EDA tools, 
+and circuit simulation, fostering both technical competence and professional readiness for careers in VLSI, semiconductor design, and 
+microelectronics. 
+ 
+Coordinator: 
+Dr. Anamika Jain 
+
+ 
+

@@ -1,0 +1,74 @@
+SOURCE_PDF: mgmt.mait.ac.in_images_pdf_-_Report_11_Apr_2023_Guest_Lecture.pdf
+
+GUEST LECTURE 
+ 
+on 
+Mitigating Cyber Risks in Ever Increasing Online Exposure of the 
+Users 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organiser: Department of Management, Maharaja Agrasen Institute Of Technology 
+ 
+Date: 11th April,2023 
+Timings: 11:00a.m. 
+ 
+Venue: Block 7 (Room No. 751) 
+Faculty Coordinators: Dr. Sanjeev Kumar and Dr. Anoop Kumar Gupta 
+
+A Guest Lecture on “Mitigating Cyber Risks In Ever Increasing Online 
+Exposure Of The Users” was organised for the students of MBA by The 
+Department of Management, MBA, Maharaja Agrasen Institute Of Technology on 
+11
+th April,2023. The resource person for the event was Mr. Ashutosh Bahuguna 
+(Scientist E), CERT- In, Delhi. The event started at 11:00 a.m. The Guest Speaker 
+was welcomed by Prof. (Dr.) Amit Gupta with a Memento as a token of 
+appreciation. 
+A brief introduction about the topic of the lecture:  
+Cyber-attacks hit businesses and private systems (used by individuals) every day, and 
+the variety of attacks is ever increasing. According to former Cisco CEO John 
+Chambers, “There are two types of companies: those that have been hacked, and those 
+who don’t yet know they have been hacked.”  
+The motives for cyber attacks are many. One is money. Cyber attackers may take a 
+system offline and demand payment to restore its functionality. Ransomware, an 
+attack that requires payment to restore services, is now more sophisticated than ever. 
+Corporations are vulnerable to cyber-attacks, but individuals are targets too, often 
+because they store personal information on their mobile phones and use insecure 
+public networks. So, it is important to understand the emergent cyber risks involved in 
+poor cyber hygiene. 
+ 
+The speaker started by discussing the various risks that individuals and organisations 
+face in today’s online environment. He highlighted that with the increase in online 
+exposure, individuals and organisations are more vulnerable to cyber-attacks, such as 
+double extortion, triple extortion, and ransom ware attacks. 
+ 
+The speaker walked the students through a series of slide and discussed the 
+importance of mitigating cyber risks and emphasized the need for individuals and 
+organisations to adopt a proactive approach to cyber security. He highlighted that 
+individuals and organisations should be aware of the various cyber threats and 
+should take necessary precautions to safeguard themselves against these threats. 
+ 
+The event was highly informative and engaging. The speaker provided valuable 
+insights into the topic. The lecture provided the students with a better understanding 
+of cyber security and ways to mitigate it. The lecture was fruitful to spread the 
+awareness among students about the topic. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

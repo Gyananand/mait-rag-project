@@ -1,0 +1,1858 @@
+SOURCE_PDF: www.mait.ac.in_images_dtsheet_ETPNov-Dec2025.pdf
+
+Timings :
+AN    -  2:00 PM- 4:30PM
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY, PSP AREA, SEC-22, ROHINI, DELHI-110086
+DATE SHEET FOR REGULAR STUDENTS FOR END-TERM  PRACTICAL EXAMS NOV/DEC 2025 (New Marking Scheme w.e.f. 2023 Batch)
+B.TECH-FIRST SEMESTER
+IST/2ND  SHIFT (Only C19,20,21)
+FN     -  9:00 AM-11:30AM
+N      -  11:30 AM-2:00PM
+Course 
+Title 
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+C1
+C2
+C3
+C10
+C11
+C12
+C19
+C20
+C21
+CST7
+CST8
+CST9
+C(AI)1
+C(AI)2
+C(AI)3
+I1
+I2
+I3
+I10
+I11
+I12
+E(VLSI)1 E(VLSI)2 E(VLSI)3
+512
+C4
+C5
+C6
+C13
+C14
+C15
+CST1
+CST2
+CST3
+ME1
+ME2
+ME3
+C(DS)1
+C(DS)2
+C(DS)3
+I4
+I5
+I6
+I13
+I14
+I15
+E(ACT)1 E(ACT)2 E(ACT)3
+514
+C7
+C8
+C9
+C16
+C17
+C18
+CST4
+CST5
+CST6
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+I7
+I8
+I9
+E1
+E2
+E3
+EE1
+EE2
+EE3
+515
+C10
+C11
+C12
+C19
+C20
+C21
+CST7
+CST8
+CST9
+C(AI)1
+C(AI)2
+C(AI)3
+I1
+I2
+I3
+I10
+I11
+I12
+E(VLSI)1 E(VLSI)2 E(VLSI)3
+C1
+C2
+C3
+312
+C13
+C14
+C15
+CST1
+CST2
+CST3
+ME1
+ME2
+ME3
+C(DS)1
+C(DS)2
+C(DS)3
+I4
+I5
+I6
+I13
+I14
+I15
+E(ACT)1 E(ACT)2 E(ACT)3
+C4
+C5
+C6
+314
+C16
+C17
+C18
+CST4
+CST5
+CST6
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+I7
+I8
+I9
+E1
+E2
+E3
+EE1
+EE2
+EE3
+C7
+C8
+C9
+318
+C19
+C20
+C21
+CST7
+CST8
+CST9
+C1
+C2
+C3
+C10
+C11
+C12
+CST1
+CST2
+CST3
+ME1
+ME2
+ME3
+C4
+C5
+C6
+C13
+C14
+C15
+CST4
+CST5
+CST6
+C7
+C8
+C9
+C16
+C17
+C18
+C19
+C20
+C21
+CST7
+CST8
+CST9
+C1
+C2
+C3
+C10
+C11
+C12
+523
+CST1
+CST2
+CST3
+ME1
+ME2
+ME3
+C4
+C5
+C6
+C13
+C14
+C15
+524
+CST4
+CST5
+CST6
+C7
+C8
+C9
+C16
+C17
+C18
+616
+I10
+I11
+I12
+E(VLSI)1 E(VLSI)2 E(VLSI)3
+C(AI)1
+C(AI)2
+C(AI)3
+I1
+I2
+I3
+I13
+I14
+I15
+E(ACT)1 E(ACT)2 E(ACT)3
+C(DS)1
+C(DS)2
+C(DS)3
+I4
+I5
+I6
+E1
+E2
+E3
+EE1
+EE2
+EE3
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+I7
+I8
+I9
+C(AI)1
+C(AI)2
+C(AI)3
+I1
+I2
+I3
+I10
+I11
+I12
+E(VLSI)1 E(VLSI)2 E(VLSI)3
+C(DS)1
+C(DS)2
+C(DS)3
+I4
+I5
+I6
+I13
+I14
+I15
+E(ACT)1 E(ACT)2 E(ACT)3
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+I7
+I8
+I9
+E1
+E2
+E3
+EE1
+EE2
+EE3
+Branch
+Pool
+Branch
+Pool
+Branch
+Pool
+CSE-I
+A
+CSE-AI
+B
+ECE
+B
+CSE-II
+A
+CSE-DS
+B
+ECE 
+(VLSI)
+B
+CST
+A
+CSE-AIML
+B
+ECE 
+(ACT)
+B
+ME
+A
+IT
+B
+EEE
+B
+Dated: 
+24.10.2025
+I
+Environmental Studies 
+Lab 
+(BS-161)
+POOL-B: 
+CSE-AI/CSE-DS/CSE-
+AIML/IT/ITE/ECE/EC-
+VLSI/EC-ACT/EEE
+321-A/321-B
+Director/Dean
+Group Code
+C 1 to 18
+CST 1 to 9
+C(AI) 1 to 3
+C(DS) 1 to 3
+C(AIML) 1 to 3
+Group Code
+C 19 to C21
+I 1 to 15
+E 1 to 3 
+E(VLSI) 1 to 3
+I
+Programming in "C" 
+Lab 
+(ES-153)
+POOL-B:
+CSE-AI/CSE-DS/CSE-
+AIML/IT/ITE/ECE/EC-
+VLSI/EC-ACT/EEE
+332-A/332-B
+01-Dec-25
+Lab/Room 
+No.
+I
+Physics -I Lab (BS-151)
+ALL (POOL-A + POOL-
+B) 
+I
+Engineering Graphics-I 
+Lab
+(ES-157)
+ALL (POOL-A + POOL-
+B) 
+I
+Applied Chemistry Lab 
+(BS-155)
+POOL-A: 
+CSE/CSE-II/CST/ME
+321-A/321-B
+I
+Electrical Science Lab 
+(ES-159)
+POOL-A: 
+CSE/CSE-II/CST/ME
+Semeste
+r
+24-Nov-25
+25-Nov-25
+26-Nov-25
+27-Nov-25
+28-Nov-25
+02-Dec-25
+03-Dec-25
+E(ACT) 1To 3
+EE 1 To 3
+Group Code
+M 1 to 3
+
+Timings :
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY, PSP AREA, SEC-22, ROHINI, DELHI-110086
+FN     -  9:00 AM-11:30AM
+B.TECH-THIRD SEMESTER
+N      -  11:30 AM-2:00PM
+IST/2ND  SHIFT (Only C11,12,13)
+DATE SHEET FOR REGULAR STUDENTS FOR END-TERM  PRACTICAL EXAMS NOV/DEC 2025
+AN    -  2:00 PM- 4:30PM
+Course 
+Title 
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+C1
+C2
+C3
+I1
+I2
+I3
+EE1
+EE2
+EE3
+C(AI)1
+C(AI)2
+C(AI)3
+IT-821,CSE-332A,C(AI)-1136,EEE-631
+C4
+C5
+C6
+I4
+I5
+I6
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+IT-824, CSE-332B,C(AIML)-1136
+C13
+C14
+C15
+I7
+I8
+I9
+C(DS)1
+C(DS)2
+C(DS)3
+CSE-347, IT-823,C(DS)-332A
+C16
+C17
+C18
+E1
+E2
+E3
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+C7
+C8
+C9
+CST7
+CST8
+CST9
+CSE-342,ECE-343,E(VLSI)-343,CST-342
+C19
+C20
+C21
+ME1
+ME2
+ME3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+C10
+C11
+C12
+CST1
+CST2
+CST3
+ME-235, CST-343,E4-342,,CSE-343-,E(ACT)-
+342
+ITE1
+ITE2
+ITE3
+ITE4
+ITE5
+ITE6
+CST4
+CST5
+CST6
+ITE-823,ITE4-235,CST-1146
+I7
+I8
+I9
+C1
+C2
+C3
+CST1
+CST2
+CST3
+CST4
+CST5
+CST6
+C(AI)1
+C(AI)2
+C(AI)3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+434
+E1
+E2
+E3
+C4
+C5
+C6
+ITE1
+ITE2
+ITE3
+ITE4
+ITE5
+ITE6
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+C19
+C20
+C21
+426
+C7
+C8
+C9
+I1
+I2
+I3
+C13
+C14
+C15
+C(DS)1
+C(DS)2
+C(DS)3
+CST7
+CST8
+CST9
+427
+C10
+C11
+C12
+I4
+I5
+I6
+C16
+C17
+C18
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+433
+CST1
+CST2
+CST3
+C1
+C2
+C3
+I1
+I2
+I3
+C16
+C17
+C18
+C(AI)1
+C(AI)2
+C(AI)3
+IT-821/CSE-122/CST-1136,C(AI)-1146
+ITE4
+ITE5
+ITE6
+ITE1
+ITE2
+ITE3
+C4
+C5
+C6
+I4
+I5
+I6
+C19
+C20
+C21
+ITE-1146-,IT-822,CSE-113
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+C(AIML)-1146
+C(DS)1
+C(DS)2
+C(DS)3
+C(DS)-1147
+CST4
+CST5
+CST6
+C7
+C8
+C9
+I7
+I8
+I9
+CST7
+CST8
+CST9
+CST456-1136,CST789-1136,IT-823,CSE-146
+C13
+C14
+C15
+C10
+C11
+C12
+CSE-343
+C16
+C17
+C18
+I7
+I8
+I9
+C1
+C2
+C3
+CST1
+CST2
+CST3
+C(AI)1
+C(AI)2
+C(AI)3
+IT-824,CSE-113,CST-1136,,C(AI)-1147
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+C19
+C20
+C21
+C4
+C5
+C6
+ITE4
+ITE5
+ITE6
+ITE1
+ITE2
+ITE3
+ITE-1156,CSE-145,C(AIML)-1147
+CST4
+CST5
+CST6
+CST-1137
+C(DS)1
+C(DS)2
+C(DS)3
+CST7
+CST8
+CST9
+C7
+C8
+C9
+C13
+C14
+C15
+I1
+I2
+I3
+CST-1136,IT-823,CSE-146,C(DS)-1146
+C10
+C11
+C12
+I4
+I5
+I6
+IT-822,CSE-111
+III
+Analog Communications Lab
+ECE/EE-VDT/EC-ACT(ECC-255)
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+E1
+E2
+E3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+442
+E1
+E2
+E3
+426
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+427
+III
+Signals and Systems Lab
+ECE/EE-VDT/EC-ACT (ECC-259)
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+E1
+E2
+E3
+422
+III
+Electrical Machines – I Lab
+EEE (EEC-257)
+EE1
+EE2
+EE3
+615
+III
+Electrical Engineering Workshop
+EEE (EEC-259)
+EE1
+EE2
+EE3
+646
+III
+Electronics - I Lab
+EEE (ECC-261)
+EE1
+EE2
+EE3
+3EE123-427,3EE4-426
+III
+Theory of Machines Lab
+ME/MAE (MEC-253)
+ME1
+ME2
+ME3
+2W3
+III
+Strength of Materials Lab
+ME/MAE (MEC-255)
+ME1
+ME2
+ME3
+2W4
+III
+Thermal Engineering – I Lab
+ME (MEC-257)
+ME1
+ME2
+ME3
+2W5
+III
+Manufacturing Science and Technology-I Lab
+ME/MAE (MEC-259)
+ME1
+ME2
+ME3
+231
+III
+Analog and Digital Electronics Lab
+MAE (ECC-263)
+426
+Dated: 
+24.10.2025
+28-Nov-25
+27-Nov-25
+Computational Methods Lab                               
+CSE/IT/CST/ITE/ECE/EEE/ME/MAE/CSE-AI/CSE-
+AIML/CSE-DS/EE-VDT/EC-ACT (ES-251)
+III
+03-Dec-25
+26-Nov-25
+Semeste
+r
+24-Nov-25
+25-Nov-25
+Object-Oriented Programming using C++ Lab
+CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS (CIC-257)
+Lab/Room No.
+02-Dec-25
+01-Dec-25
+Digital Logic and Computer Design Lab 
+CSE/IT/CST/ITE/ECE/CSE-AI/CSE-AIML/CSE-DS/EE-
+VDT/EC-ACT(ECC-253)
+III
+III
+Data Structures Lab 
+CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS (CIC-255)
+III
+III
+Analog Electronics-I Lab
+ECE/EE-VDT/EC-ACT (ECC-257)
+Note: Student of any Batch prior to 2021 may contact their concerned HOD if he/she is having reappear in any subject.
+Director/Dean
+
+Timings : FN     -  9:00 AM-11:30AM
+N      -  11:30 AM-2:00PM
+AN    -  2:00 PM- 4:30PM
+Course 
+Title 
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+C1      
+C2      
+C3      
+C7      
+C8      
+C9      
+I1       
+I2       
+I3       
+I7       
+I8       
+I9       C(AI)1
+C(AI)2
+C(AI)3
+C(DS)1
+C(DS)2
+C(DS)3
+CST7
+CST8
+CST9
+CST1
+CST2
+CST3
+CSE-145,IT-831,,CST123-342, CST789-
+1137, C(AI)/C(DS)-1147
+C4      
+C5      
+C6      
+C11     
+C12     
+C13     
+I4       
+I5       
+I6       
+ITE1
+ITE2
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+ITE3
+ITE4
+CST4
+CST5
+CST6
+CSE-146,IT-832,ITE-1136,C(AI)-1146
+C7      
+C8      
+C9      
+I1       
+I2       
+I3       
+I7       
+I8       
+I9       CST1
+CST2
+CST3
+CST7
+CST8
+CST9
+C1      
+C2      
+C3      C(AI)1
+C(AI)2
+C(AI)3
+ITE3
+ITE4
+CSE-122,IT-833, CST123-1137,ITE34-1156, 
+C(AI)-1145, CST789-1136
+C11     
+C12     
+C13     
+I4       
+I5       
+I6       
+ITE1
+ITE2
+CST4
+CST5
+CST6
+C(DS)1
+C(DS)2
+C(DS)3
+C4      
+C5      
+C6      C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+IT-822,ITE12-1146,CSE-113 ,
+C(AIML)-1157, C(DS)-1144 CST456-1137
+I1       
+I2       
+I3       
+I7       
+I8       
+I9       
+CST7
+CST8
+CST9
+ITE3
+ITE4
+C7      
+C8      
+C9      
+C1      
+C2      
+C3      C(AI)1
+C(AI)2
+C(AI)3
+IT-832,CSE-146,CST-1136,ITE34-1157, CSE-
+AI-1146
+CST1
+CST2
+CST3
+CST123-1136
+CST4
+CST5
+CST6
+CST456-1136
+I4       
+I5       
+I6       
+ITE1
+ITE2
+C(DS)1
+C(DS)2
+C(DS)3
+C11     
+C12     
+C13     
+C4      
+C5      
+C6      C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+IT-822,ITE12-1147,CSE-145,CST-1136,
+C(AIML)-1147, CSE(DS) - 1146
+I7       
+I8       
+I9       CST1
+CST2
+CST3
+C1      
+C2      
+C3      
+C7      
+C8      
+C9      
+C4      
+C5      
+C6      
+I1       
+I2       
+I3       C(DS)1
+C(DS)2
+C(DS)3
+CST7
+CST8
+CST9
+IT-831, CST-1137,C123-111,C789-
+122,C(DS)-1146
+C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+ CSE(AIML)-1147
+ITE1
+ITE2
+CST4
+CST5
+CST6
+C(AI)1
+C(AI)2
+C(AI)3
+C11     
+C12     
+C13     
+I4       
+I5       
+I6       
+ITE3
+ITE4
+ITE-1156,IT-833, C456-332B,C111213-
+113,CST-1137,C(AI)-1146
+CST1
+CST2
+CST3
+C1      
+C2      
+C3      CST7
+CST8
+CST9
+I1       
+I2       
+I3       
+I7       
+I8       
+I9       C(AIML)
+1
+C(AIML)
+2
+C(AIML)
+3
+C7      
+C8      
+C9      C(DS)1
+C(DS)2
+C(DS)3
+IT-834,CST123-1137, CST789-1136,CSE-
+111,C(AIML)-1145, C(DS)-1157
+C(AI)1
+C(AI)2
+C(AI)3
+C(AI)-1147
+CST4
+CST5
+CST6
+C4      
+C5      
+C6      
+ITE3
+ITE4
+I4       
+I5       
+I6       
+ITE1
+ITE2
+C11     
+C12     
+C13     
+IT-833,ITE-1157, CSE-122,CST-1136
+V
+Power Systems – II Lab (EEC-351) (EEE)
+EE1     
+EE2     
+EE3     
+EE4     
+632
+V
+Electrical and Electronics Measurements Lab (EEC-353)  
+(EEE)
+EE1     
+EE2     
+EE3     
+EE4     
+623B
+V
+Introduction to Control Systems Lab (EEC-355)  (EEE)
+EE3     
+EE4     
+EE1     
+EE2     
+623A
+V
+Power Electronics Lab (EEC-357)  (EEE)
+EE1     
+EE2     
+EE3     
+EE4     
+622
+V
+Microprocessors and Microcontrollers Lab (ECC-363)  
+(EEE)
+EE3     
+EE4     
+EE1     
+EE2     
+417
+V
+Digital Signal Processing Lab (ECC-351) (ECE)
+E1      
+E2      
+E3      
+E4      
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+423
+V
+Microelectronics Lab  (ECC-353) (ECE)
+E3      
+E4      
+E1      
+E2      
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+422
+V
+Introduction to Control Systems Lab  (ECC-355) (ECE)
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+E1      
+E2      
+E3      
+E4      
+623-A
+V
+Transmission Lines, Waveguides and Antenna 
+Design Lab  (ECC-357) (ECE)
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+E1      
+E2      
+E3      
+E4      
+432
+V
+Data Communication and Networking Lab  (ECC-
+359) (ECE)
+E(VLSI)
+1
+E(VLSI)
+2
+E(VLSI)
+3
+E(ACT)
+1
+E(ACT)
+2
+E(ACT)
+3
+E3      
+E4      
+E1      
+E2      
+332A
+V
+Machine Design-I Lab (MAC-351) (MAE)
+235
+V
+Heat and Mass Transfer Lab (MEC-357) (MAE/ME)
+ME1
+ME2
+ME3
+242
+V
+Sensors and Transducers Lab (MAC-355) (MAE)
+623B
+V
+ Control Systems and Applications Lab (MAC-359) 
+(MAE)
+623A
+V
+Machine Design-II Lab (MEC-351) (ME)
+ME1
+ME2
+ME3
+212
+V
+Fluid Mechanics and Hydraulic Machines Lab (MEC-
+353) (ME)
+ME1
+ME2
+ME3
+2W2
+V
+Metrology and Instrumentation Lab (MEC-355) (ME)
+ME1
+ME2
+ME3
+242
+Dated: 
+24.10.2025
+V
+Computer Networks Lab (CIC-355) 
+CSE/CST/IT/ITE/CSE-AI/CSE-AIML/CSE-DS
+V
+Compiler Design Lab (CIC-351) CSE/CST/IT/ITE/CSE-
+AI/CSE-AIML/CSE-DS
+V
+Operating Systems Lab (CIC-353) CSE/CST/IT/ITE/CSE-
+AI/CSE-AIML/CSE-DS
+Director/Dean
+LAB NO.
+28-Nov-25
+02-Dec-25
+Note: Student of any Batch prior to 2021 may contact their concerned HOD if he/she is having reappear in any subject.
+Sem
+este
+r
+24-Nov-25
+25-Nov-25
+26-Nov-25
+27-Nov-25
+01-Dec-25
+V
+Design and Analysis of Algorithm Lab (CIC-359) 
+CSE/CST/IT/ITE/CSE-AI/CSE-AIML/CSE-DS
+V
+Software Engineering Lab (CIC-357) 
+CSE/CST/IT/ITE/CSE-AI/CSE-AIML/CSE-DS
+MAE
+MAE
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY, PSP AREA, SEC-22, ROHINI, DELHI-110086
+5 th Semester
+1ST/2 ND  SHIFT(C111213)
+DATE SHEET FOR REGULAR STUDENTS FOR END-TERM  PRACTICAL EXAMS NOV/DEC 2025
+MAE
+MAE
+03-Dec-25
+
+Timings : FN     -  9:00 AM-11:30AM
+N      -  11:30 AM-2:00PM
+AN    -  2:00 PM- 4:30PM
+Course 
+Title 
+FN N
+A FN N
+A
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+I1
+I2
+I3
+C1
+C2
+C3
+IT-822,CSE-131
+CST
+1
+CST
+2
+CST
+3
+I4
+I5
+I6
+C4
+C5
+C6
+IT-821,CSE-132,CST-1156
+I7
+I8
+I9
+C7
+C8
+C9
+ITE1
+ITE2
+ITE3
+IT-823,CSE-114,ITE-1147
+C11
+C12
+C13
+CSE-132
+I1
+I2
+I3
+IT-821
+I4
+I5
+I6
+IT-823
+I7
+I8
+I9
+IT-831
+VII
+FSD-437P Mobile App Development Lab 
+(CSE/CST/IT/ITE-FSD)
+FSDIII-832,FSDI-,FSDII-145
+FSDII-132
+FSDI-131,FSDIII-831
+FSDI,II-131
+FSDIII-821
+FSDI-146
+FSDII-146
+AIMLX-632,AIMLVIII-416,AIMLI-
+131,AIMLIII-146
+AIMLXI-214,AIMLIX-417,AIMLII-
+146,AIMLVI-1157
+AIMLVII-416,AIMLIV-
+1136,AIMLXI-632,AIMLV-833
+AIMLX-631,AIMLVIII-423,AIMLI-
+131,AIMLIII-145
+AIMLXI-236,AIMLIX-423,AIMLII-
+145,AIMLVI-834
+AIMLVII-416,AIMLIV-
+1136,AIMLXI-631,AIMLV-834
+AIMLXI-631,AIMLX-
+632,AIMLVIII-417,AIMLI-
+132,AIMLIII-132,AIMLVII-417
+AIMLV-824,AIMLXI-
+236,AIMLIX-423,AIMLII-
+146,AIMLVI-833,AIMLIV-1136
+AIML-IX (ECE)
+AIML-II (CSE)
+AIML-VII (ECE)
+AIML-XI (EEE)
+AIML-V (IT)
+AIML-XI (EEE)
+AIML-I (CSE)
+AIML-II (CSE)
+AIML-VIII (ECE)
+AIML-II (CSE)
+AIML-III (CSE)
+AIML-VI (IT+ITE)
+AIML-I (CSE)
+AIML-III (CSE)
+AIML-XI (EEE)
+FSD-I (CSE)
+FSD-II (CSE/CSE-
+II/CST)
+AIML-V (IT)
+AIML-IV (CST+IT)
+AIML-VII (ECE)
+04-Dec-25
+AIML-IV (CST+IT)
+AIML-X (EEE)
+AIML-VIII (ECE)
+AIML-XI (ME)
+AIML-III (CSE)
+AIML-VI (IT+ITE)
+AIML-IV (CST+IT)
+AIML-IX (ECE)
+AIML-VI (IT+ITE)
+FSD-II (CSE/ITE/CST)
+AIML-V (IT)
+FSD-II (CSE/ITE/CST)
+FSD-I (CSE)
+FSD-III (IT)
+AIML-VIII (ECE)
+AIML-IX (ECE)
+FSD-I (CSE)
+FSD-III (IT)
+AIML-I (CSE)
+VII
+FSD 439P Web and Mibile Application 
+Testing and Deployment 
+Lab(CSE/CST/IT/ITE-FSD) 
+FSD-435P PHP Programming and MYSQL 
+Lab  (CSE/CST/IT/ITE-FSD)
+VII
+CIE-421P Machine Learning Lab  
+(CSE/CST-FSD)
+AIML-X (EEE)
+AIML-XI (ME)
+AIML-X (EEE)
+AIML-XI (ME)
+AIML-VII (ECE)
+FSD-III (IT)
+FSD-I (CSE)
+FSD-II (CSE/ITE/CST)
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY, PSP AREA, SEC-22, ROHINI, DELHI-110086
+DATE SHEET FOR REGULAR STUDENTS FOR END-TERM  PRACTICAL EXAMS NOV/DEC 2025 
+7 th  Semester
+1ST/2 ND  SHIFT (C111213)
+Sem
+este
+24-Nov-25
+25-Nov-25
+26-Nov-25
+27-Nov-25
+28-Nov-25
+01-Dec-25
+02-Dec-25
+LAB NO.
+03-Dec-25
+ML-409 P Reinforcement Learning and 
+Deep Learning Lab 
+(CSE/CST/IT/ITE/ECE/EEE/ME-AIDS) 
+VII
+ML-411P Pattern Recognition and 
+Computer Visison Lab 
+(CSE/CST/IT/ITE/ECE/EEE/ME-AIDS) 
+VII
+VII
+ML-407P Machine Learning Lab 
+(CSE/CST/IT/ITE/ECE/EEE/ME-AIDS) 
+VII
+VII
+CIE-431P Web Mining Lab (IT) 
+VII
+Data Science Lab (CSE/CST/IT/ITE) (CIE-
+405P)
+
+Course 
+Title 
+FN N
+A FN N
+A
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+04-Dec-25
+Sem
+este
+24-Nov-25
+25-Nov-25
+26-Nov-25
+27-Nov-25
+28-Nov-25
+01-Dec-25
+02-Dec-25
+LAB NO.
+03-Dec-25
+AIMLI-145,AIMLIII-1146
+AIMLII-113,AIMLIV-1137
+VII
+CIE-429P Web Intelligence and Big Data 
+Analytics Lab (ITE) 
+ITE1
+ITE2
+ITE3
+1157
+416
+417
+VII
+ECE-403P RF Components and Circuit 
+Design Lab (VLSI-ECE)
+432
+VII
+VLSI-443P CMOS Analog Integrated 
+Circuit Design Lab (VLSI-ECE)
+422
+VII
+VLSI-445P CMOS Digital Circuits Design 
+Lab  (VLSI-ECE)
+422
+VII
+VLSI-449P Low Power VLSI Design Lab  
+(VLSI-ECE)
+422
+VII
+EV‐413P  EV Charging Infrastructure 
+Technology Lab (EEE-EV)
+631
+VII
+EV‐417P  Embedded Systems for Electric 
+Vehicles Lab (EEE-EV) 
+631
+VII
+MEE-405P Computer integrated 
+Manufacturing Lab (ME)
+ME1
+ME2
+ME3
+212
+VII
+MEE-413P Strength of Materials-II Lab 
+(ME)
+ME1
+ME2
+ME3
+2W4
+VII
+CADM-401P Computational Fluid Dynamics 
+Lab (ME-CADM) 
+212
+VII
+CADM-403P Computer Aided Design and 
+Drafting Lab (ME-CADM) 
+235
+VII
+CADM-405P Industrial Robotics Lab (ME-
+CADM) 
+214
+VII
+MAC-455  Computer Integrated 
+Manufacturing Lab (MAE)
+MAE1
+MAE2
+MAE3
+212
+VII
+MAC-457  Embedded Systems and Internet 
+of Things Lab (MAE)
+MAE1
+MAE2
+MAE3
+212
+VII
+MAC-459 Introduction to Metrology and 
+Instrumentation Lab (MAE)
+MAE1
+MAE2
+MAE3
+242
+VII
+MAC-461 Robotics Engineering Lab (MAE)
+MAE1
+MAE2
+MAE3
+214
+VII
+MAO-417P Data Science Lab (MAE) 
+MAE1
+MAE2
+MAE3
+236
+VII
+AIDS-409P  Business Intelligence & 
+Analytics Lab (AIDS)
+AIDS1
+AIDS2
+AIDS3
+AIDS-1145
+VII
+AIDS-411P  Advances in Data Science 
+Lab(AIDS) 
+AIDS1
+AIDS2
+AIDS3
+AIDS-1145
+VII
+OAE411P Intelligent and Expert Systems 
+Lab (AIDS)
+AIDS1
+AIDS2
+AIDS3
+AIDS-1145
+VII
+OAE417P  Advanced Java Programming 
+Lab (AIDS)
+AIML1 AIML2 AIML3
+AIDS1
+AIDS2
+AIDS3
+AIML - 1144/AIDS-1145
+VII
+AIML-411PAdvances in Machine Learning 
+Lab (AIML) 
+AIML1 AIML2 AIML3
+AIML-1144
+VII
+AIML-409P Predictive Business Analysis 
+Lab(AIML)
+AIML1 AIML2 AIML3
+AIML-1144
+VII
+OAE405P Software Verification, Validation 
+and Testing Lab (AIML)
+AIML1 AIML2 AIML3
+AIML-1144
+AIML-IX (ECE)
+AIML-VII (ECE)
+AIML-VII (ECE)
+VLSI-I (ECE)
+CADM-I (ME)
+EV-I (EEE)
+EV-I (EEE)
+AIML-III (CSE)
+AIML-IV (CST)
+AIML-II (CSE)
+AIML-I (CSE)
+VLSI-I (ECE)
+VLSI-I (ECE)
+CADM-I (ME)
+CADM-I (ME)
+VLSI-I (ECE)
+CIE-425P Data Warehousing and Data 
+Mining Lab (CSE/CST-AIDS) 
+ECE-429P  Introduction to Internet of 
+Things Lab (ECE) 
+VII
+VLSI-I (ECE)
+VII
+
+Course 
+Title 
+FN N
+A FN N
+A
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+FN
+N
+AN
+04-Dec-25
+Sem
+este
+24-Nov-25
+25-Nov-25
+26-Nov-25
+27-Nov-25
+28-Nov-25
+01-Dec-25
+02-Dec-25
+LAB NO.
+03-Dec-25
+                                                                            
+CST (ES-451)
+HOD
+                                                                            
+ITE (ES-451)
+HOD
+ME(ES-451)
+HOD
+MAE(ES-451)
+HOD
+AIDS/AIML-451
+HOD
+Dated: 
+24.10.2025
+HOD
+HOD
+HOD
+HOD
+E4+1/2E5   
+1/2E5+E6       
+M1+1/2M2   
+1/2M2+M3         
+EE1+1/2EE2   
+1/2EE2+EE3       
+ME1+1/2ME2  
+1/2ME2+ME3      
+AIDS1+1/2AIDS2   
+1/2AIDS2+AIDS3   
+AIML1+1/2AIML2   
+1/2AIML2+AIML3   
+Note: Student of any Batch prior to 2021 may contact their concerned HOD if he/she is having reappear in any subject.
+Minor Project
+ 
+CSE (ES-451)
+C4+1/2C5   
+1/2C5+C6       
+C11+1/2C12      
+1/2C12+C13       
+CST1+1/2CST2    
+1/2CST2+CST3    
+EE4+1/2EE5  
+1/2EE5+EE6       
+Director/Dean
+                                                                            
+EEE(ES-451)
+                                                                            
+ECE(ES-451)
+                                                                            
+IT (ES-451)
+E7+1/2E8   
+1/2E8+E9       
+I7+1/2I8   
+1/2I8+I9        
+C7+1/2C8   
+1/2C8+C9       
+E1+1/2E2   
+1/2E2+E3       
+I4+1/2I5   
+1/2I5+I6        
+I1+1/2I2   
+1/2I2+I3        
+ITE1+1/2ITE2    
+1/2ITE2+ITE3      
+C1+1/2C2   
+1/2C2+C3       
+VII
+

@@ -1,0 +1,280 @@
+SOURCE_PDF: FDP_2023_Report_for_website_compressed_pdf.pdf
+
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY 
+DEPARTMENT OF MANAGEMENT 
+ 
+ 
+Report 
+on 
+One-Week Faculty Development Program 
+on 
+“Basic and Advanced Research Techniques: A PLS-SEM Approach” 
+(3-7 JULY, 2023) 
+ 
+Resource Persons:  
+ 
+Dr Puja Khatri, Professor 
+USMS, GGSIP University, Delhi 
+ 
+Dr. Neeraj Kaushik, Associate Professor & HOD 
+Dept of Business Administration, National Institute of Technology, Kurukshetra 
+and 
+Dr. Simarjeet Singh, Assistant Professor 
+Great Lakes Institute of Management, Gurgaon 
+ 
+Convener: Dr. Amit Gupta, HOD - Dept. of Management 
+Coordinators: Dr. Anoop Kumar Gupta, Dr. Sanjeev Kumar and Dr. Sukhvinder Singh 
+Co-Coordinators: Dr. Nitin Walia, Mr. Nishant Gaur and Ms. Neha Sharma 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Topic: Basic and Advanced Research Techniques: A PLS-SEM Approach 
+Venue: Room No 741, Block 7, MAIT Campus 
+Coordinators:        Dr Anoop Kumar Gupta, Dr Sanjeev Kumar & Dr Sukhvinder Singh 
+Co-coordinators:   Dr Nitin Walia, Mr Nishant Gaur, Ms Neha Sharma 
+ 
+The Department of Management, MAIT organized a One-week offline Faculty Development Program 
+(FDP) on the topic of “Basic and Advanced Research Techniques: A PLS-SEM Approach” from 3rd to 7th 
+July 2023. The resource persons were Dr. Puja Khatri, Professor, USMS, GGSIP University, Delhi; Dr 
+Neeraj Kaushik, Associate Professor and HOD, Department of Business Administration, National Institute 
+of Technology, Kurukshetra; and Dr Simarjeet Singh, Assistant Professor, Great Lakes Institute of 
+Management, Gurgaon.  The group of participants included Faculty members and Research Scholars from 
+various prominent Universities and Institutions of Delhi/NCR and North and Central India. 
+ 
+INAUGURATION OF THE FDP: 
+The FDP commenced with an inaugural program that started with a brief introduction about the Institute 
+given by Dr Sukhvinder Singh, FDP Coordinator. It followed up with Saraswati Vandana and lighting of the 
+lamp by the dignitaries. Then the theme of the FDP program was introduced to the dignitaries and 
+participants by the FDP Coordinator Dr. Anoop Kumar Gupta. The welcome speech was given by the 
+Director, MAIT, Prof. (Dr.) Neelam Sharma. This was followed by an enlightening speech by Shri S.P. 
+Agarwal (IAS), Executive Chairman, MATES. The Dignitaries were welcomed by presenting saplings to 
+them. Thereafter, Dr Sanjeev Kumar, FDP Coordinator introduced the first resource person, Dr Puja Khatri 
+to the audience. 
+The inaugural session concluded with a vote of thanks by Prof. (Dr.) Amit Gupta, HOD, MAIT. A total of 
+over 55 external participants were present in the inaugural session. The Inaugural session was followed by 
+High Tea. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Day 1 – 3 July, 2023 – Session 1 
+ 
+It started at 9:30 am. Dr. Puja Khatri started the session on Scale Development in Research with very 
+innovative examples as to how it is vital for meaningful data collection under various situations. 
+ 
+The following topics were covered in Session 1: 
+• Introduction to Scale development in research – Concept, Constructs and Items 
+• How to develop scales for different research questions 
+• Different types of Scales being used in HR/OB research areas 
+ 
+Practical examples were discussed with a step-by-step approach. Participants learnt the concepts very well. 
+It was followed by the lunch break. 
+ 
+ 
+Day 1 – 3 July, 2023 – Session 2 
+ 
+Session started at 2.30 pm. Dr Puja Khatri started the session with very innovative examples to 
+summarize the first session. The following topics were covered in Session 2: 
+ 
+• Difference between Reflective and Formative Constructs 
+• Basic representation of these constructs in PLS-SEM software 
+• Steps in developing a Questionnaire and checking its validity and reliability 
+ 
+Participants learnt the concepts very well and practiced on their laptops. 
+ 
+ 
+ 
+Day 2 – 4 July, 2023 – Session 1 
+The session started at 9.00 a.m. Dr Neeraj Kaushik started the session on Basic Research fundamentals 
+using the difference between Regression and Correlation using the life related examples in our personal 
+lives.  
+ 
+
+The following topics were covered in Session 1: 
+ 
+• How to identify variables from the Objectives? 
+• Decision on Measurement scales 
+• Role of Variable – Dependent and Independent, Moderating and Mediating Variables, Marker 
+Variables and Control Variables 
+• What do the researcher want to do with the identified variables? 
+ 
+Practical examples were discussed with a step-by-step approach. Participants learnt the concepts very 
+well. It was followed by a 15-minute tea-break. 
+ 
+ 
+ 
+Day 2 – 4 July, 2023 – Session 2 
+ 
+It started on 11.45 am. Dr Neeraj Kaushik continued the session on Basic research process and other steps 
+needed to deal with different types of research variables. He discussed various research methods and the 
+data analysis techniques that should be used for analyzing the data collected. He explained the basis of 
+selection of the analytical techniques, and how the selection is affected by the type of measurement scale 
+used in the data collection instrument. The selection of techniques was based on the nature of Dependent 
+and Independent variables i.e., whether they were collected through nominal, ordinal, interval or ratio 
+measurement scales. 
+Participants learnt the concepts and practiced on their laptops.  It was followed by Lunch break. 
+ 
+Day 2 – 4 July, 2023 – Session 3 
+ 
+It started on 2.15 pm. Dr Neeraj Kaushik continued the session on Regression and correlation concepts 
+with practical examples from our daily lives. In particular, the following topics were covered by him: 
+ 
+• 
+Simple Regression Model – significance of r and r-square using SPSS hands-on exercises 
+• 
+Multi-collinearity between IDVs in detail and how to identify significant variables after identifying 
+multi-collinearity using regression  
+
+• 
+Concept of Normality and how it matters in research situations 
+• 
+Basic Introduction to checking Validity and Reliability of Constructs and its scope  
+• 
+Need for CFA and EFA and their use and relevance in PLS-SEM software 
+ 
+The session was followed by the Tea before the conclusion of the day. 
+ 
+Day 3 – 5 July, 2023 – Session 1 
+ 
+It started at 9.00 am. Dr Neeraj Kaushik covered how to make the Conceptual Model using the ISM / TISM 
+approach.  
+He further provided a systematic, evidence-based guide to the formation of the Meta analysis model using 
+Meta Essentials.  Model Building Rules were discussed and detail and demonstrated to the researchers, 
+which can be followed by researchers with modest statistical training.  
+He demonstrated various functions using SMART-ISM package and supplemented it with practical 
+examples to show it on screen with hands-on exercises. 
+Practical exercises were discussed with a step-by-step approach. Session was followed by a tea-break. 
+ 
+Day 3 – 5 July, 2023 – Session 2 
+ 
+It started on 11.30 am – Dr Neeraj Kaushik started this session by covering the following topics in detail: 
+Establishing Construct Validity: 
+- Face validity – checking language/ grammar 
+- Content validity – checking validity of dimensions 
+For Reflective and Formative constructs, the following two types of validity were discussed: 
+- Convergent Validity  
+- Discriminant Validity 
+- Nomological Validity 
+These concepts were demonstrated through SMART-PLS software, which is based on partial least square 
+based structural equation modelling. The session was followed by  lunch-break. 
+ 
+Day 3 – 5 July, 2023 – Session 3 
+ 
+It started on 2 pm – Dr Neeraj Kaushik started this session by continuing to cover different functions of 
+SMART-PLS software. The following concepts were discussed in depth:  
+ 
+- Structural Modelling using CFA and EFA 
+- Factor Loadings and Weights in Reflective and Formative Constructs respectively 
+- Interpretation of results for CFA and EFA analysis 
+- Model Improvement features in SMART PLS 
+ 
+Participants practiced the exercises on their laptops. It was followed by the Tea break before the day was 
+called off. 
+ 
+
+Day 4 – 6 July, 2023 – Session 1 
+ 
+It started at 9.00 am. Dr Neeraj Kaushik continued on the concepts he discussed on Day 3 on Mediation and 
+Moderation. He specifically covered the steps related to: 
+ 
+• Mediation – Total Effect, broken down into Direct and Indirect effects 
+• Partial Mediation 
+• Bootstrapping 
+ 
+Practical examples were discussed with datafiles using a step-by-step approach. It was followed by a tea- 
+break. 
+ 
+Day 4 – 6 July, 2023 – Session 2 
+ 
+It started on 11.30 a.m. – Dr Neeraj Kaushik started this session by covering a full comprehensive 
+presentation on Mediation and Moderation Approaches and Flowcharts. He focused on Moderation 
+approaches in detail with Metric and Non-metric data types.  Practical exercises on both types of 
+moderation variables were done and participants learnt a lot from this session. 
+It was followed by lunch break. 
+ 
+Day 4 – 6 July, 2023 – Session 3 
+ 
+It started on 2 pm – Dr Neeraj Kaushik started this session by continuing to revise and further cover the 
+various items under Mediation and Moderation. The following concepts were specifically covered: 
+ 
+• Control Variables 
+• Higher Order Constructs 
+• Lower Order Constructs  
+ 
+Detailed steps were discussed for both Higher Order and Lower Order Constructs using SMART- PLS 
+software, including the interpretation of results. 
+Participants practiced the exercises on their laptops. It was followed by the Tea break before the day was 
+called off. 
+ 
+Day 5 – 7 July, 2023 – Session 1 
+ 
+It started at 9.30 am. Dr Simarjeet Singh started the day with a session on “Art of Literature Review”.  He 
+covered the following types of literature review: 
+- Domain based review 
+- Theory based review 
+- Method based review 
+- Meta-analytical review 
+- Different Frameworks – 5W+1H, TCCM, ADO and IMO frameworks 
+Practical examples were discussed with a review of papers online. Participants learnt the concepts very 
+well. It was followed by a tea-break. 
+
+ 
+ 
+ 
+ 
+Day 5 – 7 July, 2023 – Session 2 
+ 
+It started on 11.30 am – Dr Simarjeet Singh started this session with focus on concept of “Bibliometric 
+Review”. This type of review is relevant only when number of papers are quite large, e.g., over 200 papers. 
+He covered the following specific tools: 
+- Citespace 
+- Scimat 
+- Performance mapping and Network mapping 
+- Qualitative studies  
+- Multi-vocal literature review 
+ 
+It was followed by lunch break. 
+ 
+Day 5 – 7 July, 2023 – Session 3  
+ 
+It started on 2.15 pm – Dr Simarjeet Singh started the session by continuing to cover Bibliometric Analysis 
+in detail with focus on hands-on demonstration of features of Biblioshiny tool. He covered the following 
+features in Biblioshiny tool: 
+ 
+- Import file into Biblioshiny 
+- Performance mapping and Network mapping 
+- Quantity and Quality parameters 
+- Citation Analysis and ratio between local citation to total citations 
+- Page rank Analysis 
+- Clustering analysis 
+-  
+In the end, he discussed some critical aspects of paper writing which are often neglected by researchers 
+and leads to rejections by good journals. 
+
+ 
+This was followed by a brief valedictory session. 
+ 
+Ms Neha Sharma welcomed the dignatories to the valedictory session. Participation certificates were 
+distributed by the Director MAIT Prof. (Dr.) Neelam Sharma, Dean Academics Prof. (Dr.) S.S. Deswal 
+and HOD Prof. (Dr.) Amit Gupta to various participants who attended the FDP. The session ended with 
+feedback from some of the participants. Overall, it was a good learning experience for the participants. 
+ 
+ 
+ 
+ 
+

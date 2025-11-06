@@ -1,0 +1,107 @@
+SOURCE_PDF: Report_on_Advanced_Business_Analytics_course_SIIC_IIT_kanpur_pdf.pdf
+
+ 
+ 
+ 
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY 
+(ISO: 9001:2015 Certified) 
+Approved by AICTE, Ministry of HRD, Govt. of India 
+ 
+Ministry of HRD, Govt. of India 
+(Affiliated to Guru Gobind Singh Indraprastha University, Delhi) 
+ 
+ 
+Department of Management, MBA 
+Report on 
+SIIC, IIT KANPUR A-MDP                                     
+A         ADVANCED BUSINESS ANALYTICS 
+ 
+   
+ 
+ 
+ 
+
+Organizer: Department of Management, Maharaja Agrasen Institute of 
+Technology Date: 26th January to 1st March 
+Timings: 9:45 AM to 5:15 PM 
+Venue: IIT Kanpur Outreach Center, Sector 62, Industrial Area, Noida, 
+Uttar Pradesh Faculty Coordinators: Dr. Sanjeev Kumar 
+ 
+ 
+A 5-days certification program was offered by SIIC, IIT Kanpur an 
+initiative of MSME, Advanced MDP on Advanced Business Analytics. 
+The program aimed to provide essential knowledge about Python 
+Programming, Data Visualization, Block chain and Data Analytics. The 
+agenda behind the program was to apply their practical applications in 
+real-life business world. 
+ 
+                                
+ 
+
+             Day 1 (Basics of Python Programming) 
+Dr. Rajan Gupta, taught us about the basics of Python Programming 
+which involved the data types, naming rules, different operators, 
+application of Strings, tuple, lists and Dictionaries. He also taught how to 
+import the libraries such as Pandas and Matplotlib along with their 
+applications and students performed a task to plot some graphs using it.  
+            
+           Day 2 (Data Warehousing & Data Storytelling) 
+Dr. Rajan Gupta shared his valuable teachings about Data Warehousing, 
+types of data sets, its classification, and the KDD Process. He also 
+explained the concept of OLAP & OLTP techniques, Data warehouse 
+models, classification of Data Storytelling and about various tasks 
+involved in Data Processing. 
+            
+           Day 3 (Business Intelligence and Visualization) 
+Dr. Rajan Gupta explained the concept of Business intelligence with the 
+components of Business Intelligence structure. He showed how to create 
+a visualization report of data through Power-Bi and explained various 
+features of Power Bi like power query and how to create interactive 
+charts.  
+           Day 4 (Block chain & Effective Business Communication) 
+ Dr. Priyanka Gupta explained the students regarding the concept of Block 
+chain which includes its features, types, consideration, visualization,  and 
+real-world application whereas she also explained the concept of 
+Effective Business Communication which includes the 7C’s, its barriers, 
+Role of an HR, and its importance. She also explained how to keep a 
+memo short, crisp, and concise using an example and Case study. 
+
+ 
+ Day 5 (Data Analytics) 
+Dr. Priyanka Gupta ended the program on the most important  topic that 
+is Data Analytics. It involved the process and phases of Data Analytics 
+and various functions were taught in Microsoft Excel to analyze some 
+Data shared by her such as determining the Correlation, Variance, 
+Regression, and many more quantitative terms which are helpful in 
+analyzing any data. Students have carried out the task as provided by her.  
+ 
+The program included interactive lectures, group discussions, case study 
+analysis and business life examples. Students provided positive feedback, 
+appreciating the hands-on approach, the relevance of the content to 
+MSME challenges, and the opportunity to network with peers. The 
+training successfully met its objectives, with participants demonstrating 
+a significant improvement in their understanding of Business Analytics 
+concepts and expressed confidence in applying these skills to their 
+respective area of interests and in businesses. 
+ 
+  
+ 
+
+ 
+ 
+           
+ 
+ 
+
+ 
+ 
+ 
+ 
+          Conclusion 
+This 5-day training program was more than just being a program. It was a 
+valuable initiative, contributing to the enhancement of Advance business 
+analytics practices among participating MSMEs. The positive feedback and 
+outcomes indicated a strong foundation  for future training program.
+
+ 
+

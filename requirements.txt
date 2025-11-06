@@ -1,0 +1,17 @@
+# --- Core Libraries ---
+streamlit
+google-genai
+chromadb
+transformers
+torch
+Pillow
+
+# --- Scraping & Data Handling ---
+requests
+beautifulsoup4
+lxml
+pymupdf
+youtube-transcript-api
+
+# --- Git LFS (Not a pip package, but good to note) ---
+# git-lfs

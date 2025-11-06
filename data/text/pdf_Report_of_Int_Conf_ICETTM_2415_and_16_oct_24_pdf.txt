@@ -1,0 +1,835 @@
+SOURCE_PDF: Report_of_Int_Conf_ICETTM_2415_and_16_oct_24_pdf.pdf
+
+MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY 
+DEPARTMENT OF MANAGEMENT 
+ 
+Report on 
+International Conference on “Emerging Trends in Technology and 
+Management” (ICETTM-2024) October 15-16, 2024 
+Department of Management 
+General Chair ICETTM 
+Prof. (Dr.) Amit Gupta, Head, Department of Management  
+Conference Chair ICETTM 
+Prof. (Dr.) Ravi Gupta, Department of Management 
+ 
+ 
+International Conference on “Emerging Trends in Technology and Management” 
+(ICETTM-2024) 
+Venue: Main Auditorium, MAIT  
+
+Conveners: Dr. Sanjeev Kumar & Dr. Sukhvinder Singh  
+Organising Chair: Dr. Anju Bharti, Dr. Neeru Gupta and Dr. Ratika Sikand 
+ 
+ 
+The International Conference on Emerging Trends in Technology and Management (ICETTM-
+2024) successfully took place on October 15-16, 2024 organised by Department of 
+Management, Maharaja Agrasen Institute of Technology (MAIT), affiliated with Guru Gobind 
+Singh Indraprastha University, Delhi. The conference was organized under the chief patronage 
+of Dr. Nand Kishore Garg, Hon’ble Founder & Chief Advisor, MATES and Patronage of Shri 
+Vineet Kr. Lohia, Chairman MATES, Prof. M.L. Goyal, Vice Chairman, Academics MATES, 
+Prof. (Dr.) J.V Desai, Director General, MAIT, Prof. (Dr.) Neelam Sharma, Director MAIT, 
+Prof. (Dr.) S.S. Deswal, Dean MAIT and Prof. (Dr.) Sachin Gupta, Dean (R& I), MAIT. The 
+event was organized under the leadership of Prof. (Dr.) Amit Gupta, who served as the 
+Organizing Chair and played a pivotal role in its execution with the invaluable contributions 
+from Prof. (Dr.) Ravi Gupta, Dr. Sanjeev Kumar, Dr. Sukhvinder Singh, Dr. Anju Bharti, Dr. 
+Neeru Gupta and Dr. Ratika Sikand as team members.  
+ 
+The inaugural ceremony of the conference commenced with a Saraswati Vandana and the 
+ceremonial lighting of the lamp, symbolizing the pursuit of knowledge, followed by 
+introduction of the conference theme by Prof. (Dr.) Ravi Gupta. Thereafter, Prof. (Dr.) Neelam 
+Sharma, Director of MAIT, delivered an inspiring welcome address, setting a positive tone for 
+the two days of insightful discussions. 
+ 
+ICETTM-2024 aims to foster dialogue and collaboration among academicians, industry 
+leaders, and researchers, providing a platform to share knowledge and explore innovative 
+solutions in technology and management. The event witnessed an impressive turnout with 150 
+registrations and featured 80 research articles, highlighting the vibrant engagement of the 
+academic community. 
+ 
+The conference also featured addresses from notable speakers, including Dr. Nand Kishore 
+Garg, Founder Chairman of MATES, Shri Ganpati Ji, RSS Pracharak, Mr. Shankar Gakhar, 
+Regional Head North at MCX and Prof. Prasannashu, Dean of NLU and Mr. Sachin Kumar, 
+Senior Vice President at Syndigo, UK, joined the conference online. 
+ 
+Dr. Nand Kishore Garg, Founder Chairman of MAIT, who highlighted the significance of 
+integrating Sustainable Development Goals (SDGs) into business practices. His address 
+
+emphasized the urgent need for organizations to align their strategies with global sustainability 
+initiatives. 
+Shri Ganpati Ji, RSS Pracharak, addressed the integration of the Indian Knowledge System into 
+modern management, advocating for a holistic approach that respects traditional wisdom while 
+embracing innovation. His insights resonated with the conference's focus on blending heritage 
+with contemporary practices. 
+Mr. Shankar Gakhar, Regional Head North at MCX, discussed the transformative role of Big 
+Data Analytics in decision-making processes. He showcased how businesses can harness data 
+to enhance efficiency and drive growth, underscoring its relevance in today’s data-driven 
+landscape. 
+Adding to the technological discourse, Mr. Sachin Kumar, Senior Vice President at Syndigo, 
+UK, joined virtually to elaborate on the implications of Artificial Intelligence in management 
+strategies. His insights on AI's potential to revolutionize industries were particularly well-
+received by attendees. 
+The conference also explored Green Marketing strategies, with various speakers addressing the 
+importance of sustainable practices in branding and consumer engagement. This theme 
+highlighted the need for businesses to adopt eco-friendly approaches in response to growing 
+consumer demand for sustainability. 
+Prof. Prasannashu, Dean of NLU, provided a legal perspective on these emerging trends, 
+emphasizing the importance of regulatory frameworks that support innovation while 
+safeguarding public interest. 
+The day concluded with a vote of thanks from Prof. (Dr.) Amit Gupta, Head of the Department 
+of Management at MAIT, who expressed gratitude to all participants for their valuable 
+contributions. 
+ICETTM-2024 was privileged to have participation from notable institutions including Jamia 
+Millia Islamia, Jamia Hamdard Deemed to be University, Lal Bahadur Shastri Institute of 
+Management, O.P. Jindal Global University, Amity University, Indira Gandhi University, 
+Jaypee Business School and many more. These esteemed institutions contributed to a rich 
+dialogue across six key tracks, including Sustainable Development Goals (SDGs), the Indian 
+Knowledge System, Big Data Analytics, Artificial Intelligence, Green Marketing, and 
+Innovation in Management Practices. 
+ 
+The event recognized the hard work of participants with the presentation of Best Paper Awards 
+for each technical session, celebrating outstanding contributions to the field. To further extend 
+the reach of the knowledge shared at the conference, selected papers will have the opportunity 
+to be published in Scopus Indexed, UGC CARE Listed, and Peer-Reviewed Journals, as well 
+
+as in edited volumes. This initiative aims to disseminate valuable research findings and foster 
+ongoing dialogue within the academic community. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The valedictory session started with the guest lecture in online mode by Mr. Ranveer Kumar, 
+AVP, Engineering (Digital Banking) IndusInd Bank Limited, Gurugram, on the topic 
+“Generative AI in FinTech” from 2.00pm to 3.00pm. There was an impressive interaction of 
+speaker with the students who were watching the session in offline mode. The convener of the 
+conference Prof(Dr) Ravi Gupta and the organising Committee distributed the certificates to 
+all participants and celebrated the achievements of the Best Paper Award recipients. Feedback 
+from attendees was overwhelmingly positive, highlighting the relevance and quality of the 
+discussions held during the conference. 
+ 
+
+ 
+  
+ 
+ 
+
+Schedule: 
+ 
+ 
+• 
+Date: October 15,2024 
+• 
+Time: 2:00 PM to 4:00 PM 
+• 
+Venue: 7th block ( Room no 741) 
+• 
+Organized By: Department of management, Maharaja Agrasen Institute Of 
+Technology.  
+• 
+Mode : Offline  
+ 
+Report on Track 1 of ICETTM 2024 Offline Session 
+The International Conference on Emerging Trends in Technology and Management (ICETTM) 
+2024 brought together experts, scholars, and practitioners from diverse fields to discuss 
+emerging trends and developments in technology and management. The technical track session, 
+hosted by Tanya Raizada and Bhavini Jain, aimed to evaluate current progress in economic, 
+business, and technological domains through insightful presentations. 
+The conference offered a platform for raising awareness, disseminating knowledge, and 
+fostering thought-provoking discussions. The session included contributions from various 
+academic and industry professionals. The chair of the session, Prof. (Dr.) Shruti Tripathi, Dean 
+of the Delhi Skill and Entrepreneurship University (DSEU), and co-chair, Dr. Sukhvinder 
+
+Singh, Assistant Professor of Marketing at Maharaja Agrasen Institute of Technology, played 
+key roles in guiding the discussions and providing expertise. 
+Out of 21 registered teams for this track, -----teams presented. 
+Presentations Overview 
+Presentation 1:Digital Payments and Consumer Experience in Delhi 
+Topic: A survey-based empirical study on digital payments in Delhi. The research focused on 
+how digital payment platforms have influenced consumer behavior, satisfaction, convenience, 
+and security in financial transactions. 
+Presentation 2: 
+Presented by: Dr. Radhika Thapar and Tanishka Goel 
+Topic: The presentation provided an institutional overview, offering insights into academic 
+programs and research initiatives. 
+Presentation 3: AI Risks and Dangers – Delhi NCR Netizen's Perception 
+Presented by: Dr. Radhika Thapar and Rashi Chug 
+Topic: This study explored the public perception of artificial intelligence risks in Delhi NCR, 
+focusing on issues such as data privacy, automation, and the ethical implications of AI 
+deployment. 
+Presentation 4: Big Data Analytics through AI, Machine Learning, Data Mining 
+Presented by: Humairah Khatoon 
+Topic: The use of big data analytics, AI, and machine learning was analyzed, with an emphasis 
+on their applications in various sectors to predict trends and make informed decisions based on 
+data mining techniques. 
+Presentation 5: Enhancing Brand Awareness through Social Media Analytics 
+Presented by: Shreya Gupta and Kiran Garg 
+Topic: The study discussed how brands can leverage social media analytics to increase their 
+visibility. Strategic approaches to boost brand awareness, using real-time data from social 
+platforms, were explored. 
+Presentation 6: A Machine Learning Approach to Hospital Ratings 
+Presented by: Ashish Agrawal, Arpit Singh, and Dr. Sunita Daniel 
+Topic: This research applied machine learning models to analyze hospital ratings, examining 
+how organizational structure and key performance metrics influence patient feedback and 
+healthcare service quality. 
+Presentation 7: Metaverse Escapes – Drivers of Metaverse Adoption in the Leisure and 
+Entertainment Industry 
+Presented by: Radhika Aggarwal and Dr. Shelly Gupta 
+
+Topic: The presentation focused on the adoption of the metaverse within the leisure and 
+entertainment sectors. It discussed the factors driving businesses and consumers to engage with 
+virtual worlds and the potential business opportunities arising from the metaverse. 
+Presentation 8: Factors Influencing Mental Health of University and College Students in Delhi 
+Presented by: Dr. Radhika Thapar and Vanshika 
+Topic: This study investigated the mental health challenges faced by students in Delhi, 
+identifying stressors such as academic pressure, financial concerns, and social dynamics. The 
+research also proposed interventions for improving student well-being. 
+Presentation 9: Digital Learning as a Pathway to Sustainable Education 
+Presented by: Dr. Divya Goel and Dr. Mitushi Singh 
+Topic: The research explored how digital learning can lead to sustainable education 
+Presentation 10: The Impact of New Technologies on the Financial Services Industry 
+Presented by: Ajay Kumar Yadava 
+Topic: This presentation discussed the transformative effects of emerging technologies like 
+blockchain, AI, and fintech on the financial services industry, with an emphasis on operational 
+efficiencies and customer service improvements. 
+Presentation 11: Barriers to Blockchain Adoption in Supply Chains 
+Presented by: Isha Shukla and Dr. Kiran Garg 
+Topic: The research explored the challenges faced by businesses in adopting blockchain 
+technology in supply chains, using Total Interpretive Structural Modeling (TISM) to map the 
+interrelationships between these barriers. 
+Presentation 12: Practical Differences Between NPV and IRR in Project Evaluation 
+Presented by: Bhoomika Nagpal, Riya Yadav, Khushboo Kaushik, and Dr. Rajiv Jain 
+Topic: The presentation examined two common project evaluation methods, Net Present Value 
+(NPV) and Internal Rate of Return (IRR), discussing their practical applications and the 
+differences in decision-making outcomes. 
+Presentation 13: Voice Assistants – Challenges and Opportunities 
+Presented by: Vaibhav Mittal, Dr. Ratika Sikand, and Dr. Neha Sharma 
+Topic: This review explored the challenges and opportunities associated with the use of voice 
+assistants, including privacy concerns, language processing barriers, and the potential for 
+increased user engagement. 
+Presentation 14: Customer Awareness regarding Online Grocery Shopping 
+Presented by: Vaishnavi Aggarwal and Nancy 
+Topic: The study focused on customer awareness and perceptions regarding the online purchase 
+of FMCG products, particularly groceries. Factors such as convenience, trust, and satisfaction 
+were examined. 
+
+Presentation 15: Factors Affecting Financial Behavior Among Youth in Delhi NCR 
+Presented by: Shrishti and Dr. Sanjeev 
+Topic: The research explored the financial behavior of youth in Delhi NCR, investigating how 
+factors like income, education, and technology influence spending, saving, and investment 
+decisions. 
+Presentation 16: Indian Stock Market Volatility Pre and Post Union Budget 
+Presented by: Ajay Mittal 
+Topic: This presentation analyzed stock market trends and volatility before and after the Union 
+Budget, identifying key factors that affect market performance during this period. 
+Presentation 17: Risk Analysis in Different Indian Industries 
+Presented by: Eshita Singla, Simran Arora, and Dr. Neeru Gupta 
+Topic: This study conducted a risk analysis across various Indian industries, examining market 
+movements and the factors contributing to risk in sectors such as manufacturing, retail, and 
+technology. 
+Presentation 18: Offensive and Aggressive Content on OTT Platforms in Indian Society 
+Presented by: Riddham Jain and Dr. Radhika Thapar 
+Topic: The exploratory study examined whether offensive, aggressive, or hate speech content 
+on OTT platforms aligns with Indian cultural norms. It assessed public perceptions and 
+regulatory challenges. 
+Presentation 19: Pros and Cons of Artificial Intelligence 
+Presented by: Anupama Singh and Riya Francis 
+Topic: This balanced analysis of AI discussed both its advantages, such as automation and 
+decision-making, and its potential downsides, including job displacement and ethical concerns. 
+Presentation 20: Risk and Return Analysis of NIFTY 50 
+Presented by: Tanya Sharma and Dr. Ritu Gupta 
+Topic: The empirical study analyzed the risk and return dynamics of NIFTY 50, offering 
+insights into investment strategies and stock market performance for traders and investors. 
+Presentation 21: Technology Innovation and Big Data Analytics in Supply Chains 
+Presented by: Prem Nath Panday and Suruchi Panday 
+Topic: The final presentation discussed successful strategies for incorporating AI and big data 
+analytics in supply chain management, highlighting cost-saving measures and operational 
+efficiencies. 
+Conclusion and Recognition 
+The session concluded with insightful remarks from the chair, Prof. (Dr.) Shruti Tripathi, and 
+co-chair, Dr. Sukhvinder Singh, who emphasized the importance of continuous learning and 
+innovation in addressing the challenges of emerging trends in technology and management. 
+
+The session provided valuable knowledge and fostered meaningful discussions on cutting-edge 
+topics such as AI, digital payments, blockchain, and mental health. 
+The conference served as an excellent platform for participants to engage with experts, 
+exchange ideas, and explore actionable insights that could shape the future of technology and 
+management. The presentations demonstrated the growing importance of interdisciplinary 
+research in solving real-world problems and provided attendees with a deeper understanding 
+of contemporary challenges and opportunities. The best presenters Shreya Gupta and Radhika 
+Aggarwal and Dr. Shelly Gupta were recognized for their outstanding contributions, and the 
+session ended with a group photograph to commemorate the event. 
+ 
+ 
+• 
+ Date: October 16,2024 
+• 
+Time: 11AM to 1:00 PM 
+• 
+Venue: 7th block . 
+• 
+Organized By: Department of management, Maharaja Agrasen Institute Of 
+Technology.  
+• 
+Mode : Online  
+ 
+Report on Track 2 of ICETTM 2024 Online Session 
+  
+The International Conference on Emerging Trends in Technology and Management (ICETTM) 
+2024 brought together industry experts, academics, and participants from various sectors to 
+discuss critical developments and challenges in technology and management. Track 2 of this 
+conference, co-hosted by Taniya Pawar and Rachit Ahhi, featured diverse presentations focused 
+on emerging trends, entrepreneurship, and sustainability in India and globally. Below is a 
+detailed report on the session’s proceedings, highlighting key presentations and discussions. 
+  
+Introduction 
+  
+
+The session commenced with a warm welcome by the hosts, Taniya Pawar and Rachit Ahhi, 
+who introduced the theme of the conference and Track 2 in particular. The conference aimed 
+to evaluate progress in various economic, business, and technological domains, offering a 
+platform for raising awareness and fostering thought-provoking discussions. 
+  
+The session was honored by the presence of esteemed academicians, Dr. Seema Varshney and 
+Dr. Anju Bharti, who served as the session chair and co-chair, respectively. Dr. Varshney, with 
+over 29 years of experience in academics and research, is a renowned figure in service 
+marketing, consumer behavior, and entrepreneurship. Dr. Bharti, with a PhD in Management, 
+has extensive experience in marketing and corporate social responsibility. 
+  
+Presentations Overview 
+  
+A total of 13 presentations were made during the session, each highlighting significant research 
+and insights in their respective areas. Below are brief overviews of some key presentations: 
+  
+ 
+1. 
+Inclusive Entrepreneurship and Innovation in India: Presented by Dr. Shallu 
+Aggarwal, this research delved into the role of inclusive entrepreneurship in driving sustainable 
+growth in India. The study highlighted the need for an ecosystem that fosters innovation across 
+various sectors to achieve long-term economic development. 
+ 
+2. 
+Entrepreneurship in the Tourism Industry: Ms. Divya Jain and Dr. Nisha 
+presented research on the business benefits of entrepreneurship in the tourism sector. Their 
+findings underscored the industry’s untapped potential and the benefits it brings to local 
+economies. 
+ 
+3. 
+Women Entrepreneurship in Developing Countries: Ms. Ambica Garg’s 
+presentation focused on the challenges and prospects faced by women entrepreneurs in 
+developing nations like India. Her analysis provided a clear picture of the obstacles that hinder 
+women’s entrepreneurial growth and suggested strategies to overcome these barriers. 
+ 
+4. 
+Environmental Activism: The presentation by Karan Grover and Garima 
+highlighted the emerging trends in environmental activism, focusing on its implications for 
+future policy-making and business strategies. The discussion sparked debate on how activism 
+can influence corporate sustainability initiatives. 
+ 
+5. 
+Green Finance and Sustainable Economy: Dr. Pragati Sahai presented on the 
+emerging trend of green finance and its critical role in fostering a sustainable economy. Her 
+research emphasized the importance of integrating green finance into national economic 
+policies to promote environmental responsibility. 
+
+ 
+6. 
+Greenwashing: Dr. Aashu Aggarwal’s presentation provided insights into the 
+reality of “greenwashing,” where companies falsely advertise environmentally friendly 
+practices. This discussion brought attention to the need for stricter regulations and increased 
+transparency in corporate sustainability claims. 
+  
+Query Sessions and Participant Engagement 
+  
+After each presentation, a query session was held where participants actively engaged with the 
+presenters. Questions ranged from specific methodologies used in research to broader 
+discussions on the implications of the findings for industries and policymakers. This interactive 
+element added significant value to the session by allowing attendees to delve deeper into the 
+presented topics and explore practical applications of the research. 
+  
+The hosts ensured smooth transitions between presentations, maintaining the session’s energy 
+and professionalism. Group photographs were taken after key moments, capturing the 
+enthusiasm and collaboration among participants. 
+  
+Closing Remarks 
+  
+At the conclusion of the session, the chair, Dr. Seema Varshney, and co-chair, Dr. Anju Bharti, 
+provided closing remarks. Dr. Varshney emphasized the importance of continuous research and 
+collaboration in addressing the challenges posed by technological and management trends. She 
+highlighted two outstanding presentations, though their names were yet to be announced. Dr. 
+Bharti reiterated the significance of practical application of academic research, encouraging 
+participants to keep pursuing innovative solutions to real-world problems. 
+  
+Conclusion 
+The Track 2 session of ICETTM 2024 successfully brought together a range of topics at the 
+intersection of technology, entrepreneurship, and sustainability. The presentations provided in-
+depth analyses of emerging trends and challenges, while the active engagement of participants 
+ensured a rich exchange of ideas. The session’s focus on sustainability, entrepreneurship, and 
+technological innovation aligns with India’s broader goals of fostering inclusive growth and 
+promoting environmental responsibility 
+
+  
+• 
+Date: October 16,2024 
+• 
+Time: 11AM to 1:00 PM 
+• 
+Venue: 7th block . 
+• 
+Organized By: Department of management, Maharaja Agrasen Institute Of 
+Technology.  
+• 
+Mode : Online  
+ 
+
+Report on Track 3 of ICETTM 2024 Online Session 
+The International Conference on Emerging Trends in Technology and Management (ICETTM) 
+2024, organized to explore and evaluate critical global and domestic issues in business, 
+technology, and management, provided a platform for experts and professionals to share 
+insights. This report focuses on the proceedings of Track 3, where a series of presentations 
+highlighted various emerging trends and innovations in technology and management. 
+Introduction 
+Hosted by Mansi Garg and Tanya Raizada, the session began with introductions and 
+acknowledgments of the dignitaries present, including Prof. (Dr.) Rohit Bansal, Dr. Chakir 
+Aziza, and Dr. Sukhvinder Singh, who chaired and co-chaired the session. The hosts 
+emphasized the importance of the conference as a space for knowledge sharing and thought 
+leadership, particularly regarding technological advancements and managerial practices. After 
+a brief overview of the session’s rules, the presentations commenced. 
+Out of 11 registered teams for this track, 8 teams presented in the online session. 
+  
+Presentations Overview 
+1. Accelerating Digital Economy: Opportunities and Challenges Presented by Dr. 
+Shally Aggarwal, Dr. Shuchi Gupta, and Dr. Renu Pahal, this topic explored how the 
+rapidly advancing digital economy opens new opportunities while posing significant 
+challenges. The presentation addressed key areas such as economic growth, job 
+creation, and the impact of digitization on traditional industries. The speakers 
+emphasized the importance of adopting new technologies while addressing 
+cybersecurity and data privacy concerns. 
+2. Digital India: An Overview Dr. Kirti Aggarwal's presentation focused on India’s 
+national digitalization initiatives. It examined the transformation in various sectors 
+through digital technologies and the policies driving these changes. The discussion 
+highlighted how Digital India is contributing to the country’s economic development, 
+improving access to services, and fostering innovation in the private and public sectors. 
+3. Digital Economy in India: Opportunities and Challenges Ms. Sunena shared her 
+perspectives on the digital economy in India, emphasizing the rapid integration of 
+digital technologies across multiple sectors, including finance, education, and 
+healthcare. The presentation provided a detailed analysis of the current challenges, such 
+as infrastructure deficits, and opportunities, such as the creation of new markets and job 
+opportunities. 
+4. Exploring E-payment Systems in E-commerce: Future Prospects Presented by Ms. 
+Mamta, Ms. Aditi Sharma, and Ms. Nisha Kumari, this discussion delved into the 
+
+evolution of e-payment systems within e-commerce. The team presented future 
+prospects for payment systems, such as blockchain and cryptocurrency, and explored 
+their potential impact on global trade and the digital economy. 
+5. Digital Transformation in Public Procurement: Leveraging Blockchain 
+Commander Pranesh Kumar and Dr. Smriti Asthana presented on the integration of 
+blockchain and smart contracts in public procurement. The speakers discussed how 
+these technologies could improve transparency, efficiency, and accountability in supply 
+chain management, ultimately transforming procurement processes in both the public 
+and private sectors. 
+6. Small Finance Banks in India: A Critical Review This presentation, delivered by Ms. 
+Pooja Malik and Mr. Rakesh Malik, critically examined the role of small finance banks 
+in driving financial inclusion in India. The speakers highlighted how digital innovations 
+have enabled these banks to offer tailored financial services to underserved 
+communities and the challenges they face in scaling their operations. 
+7. Revolutionizing the Insurance Sector with Emerging Technologies Dr. Anju Rohilla 
+presented an insightful discussion on how the insurance industry is evolving through 
+the adoption of emerging technologies such as artificial intelligence, big data analytics, 
+and blockchain. The presentation outlined how these technologies are enhancing risk 
+assessment, customer service, and operational efficiency in the sector. 
+8. Adoption of Digital Financial Innovation in India Presented by Ms. Sushma Devi 
+and Dr. Neha Arora, this session explored the adoption of digital financial technologies 
+in India, focusing on mobile payments, fintech startups, and digital banking. The 
+discussion examined the barriers to widespread adoption, including regulatory 
+challenges and consumer trust, while also highlighting the potential for financial 
+innovation to foster inclusive growth. 
+9. Consumer Perception Toward Digital Banking in Delhi/NCR Ms. Prisha Sardana 
+and Ms. Uday Sharma presented a study on how consumers in the Delhi/NCR region 
+perceive digital banking services. The presentation analyzed consumer behavior, 
+highlighting factors such as convenience, security concerns, and trust that influence the 
+adoption of digital banking. 
+10. Digital Currency in India: A Critical Review The final presentation by Dr. Anita and 
+Dr. Deepa provided a critical review of digital currency in India. They discussed the 
+regulatory landscape, the potential economic impact of adopting digital currencies, and 
+the future prospects for cryptocurrency in the Indian market. 
+  
+Conclusion and Recognition 
+
+The session concluded with a motivating address by the session chair, Dr. Rohit Bansal, and 
+co-chair, Dr. Sukhvinder Singh. Both emphasized the importance of continuous learning and 
+adapting to technological advancements. The best presenters  Prisha Sardana and Anju Rohilla 
+were  recognized for their outstanding contributions, and the session ended with a group 
+photograph to commemorate the event. 
+Overall, the conference provided an in-depth exploration of how emerging technologies are 
+shaping the future of various industries, particularly in the context of India’s digital 
+transformation. 
+This report summarizes the key presentations and discussions from Track 3 of the ICETTM 
+2024, emphasizing the value of the conference in fostering knowledge sharing and professional 
+growth in the fields of technology and management. 
+  
+ 
+ 
+ 
+Date: October 16, 2024 •  
+
+Time: 11AM to 1:00 PM •  
+Venue: 7 th block •  
+Organized By: Department of management, Maharaja Agrasen Institute of Technology.  
+• Mode: Online Report on Track 4 of ICETTM 2024 Online Session  
+The International Conference on Emerging Trends in Technology and Management (ICETTM) 
+2024, organized to explore and evaluate critical global and domestic issues in business, 
+technology, and management, provided a platform for experts and professionals to share 
+insights. This report focuses on the proceedings of Track 4, where a series of presentations 
+highlighted various emerging trends and innovations in technology and management. 
+Introduction Hosted by Yamini Gupta and Safal Goyal, the session began with introductions 
+and acknowledgments of the dignitaries present, including Prof. (Dr.) Yasmin Shamsi Rizvi, 
+and Dr. Ratika Sikand, who chaired and co-chaired the session. The hosts emphasized the 
+importance of the conference as a space for knowledge sharing and thought leadership, 
+particularly regarding technological advancements and managerial practices. After a brief 
+overview of the session’s rules, the presentations commenced. Out of 11 registered teams for 
+this track, 6 teams presented in the online session. Presentations Overview 1. Innovative 
+Approaches to Recruitment, Retention, and Promotion: Ms. Jyoti Mittal highlighted various 
+innovative methods employed by organizations to enhance recruitment, retention, and 
+promotion practices. The focus was on leveraging technology, data analytics, and inclusive 
+leadership strategies. Her insightful suggestions were supported by real-world examples that 
+demonstrated how companies are adapting to the changing workforce dynamics. Her 
+presentation emphasized the need for a peoplefirst approach while implementing these 
+innovations. 2. The Power of Personalization: How Tailored Social Media Marketing 
+Influences Consumer Decision-Making: Dr. Aaruni Batta elaborated on the impact of 
+personalized marketing on consumer behavior through social media platforms. They presented 
+detailed case studies and data showing how tailored content increases engagement, brand 
+loyalty, and influences purchasing decisions. The session shed light on the intersection of 
+marketing strategies and evolving digital platforms, stressing the significance of 
+personalization in today’s competitive landscape. 3. Chatbots and Customer Experience in the 
+Age of Artificial Intelligence: This team focused on the growing role of AI-powered chatbots 
+in transforming customer service experiences. The presentation covered key technologies 
+behind chatbots, their benefits in delivering real-time customer support, and the challenges 
+companies face in integrating them effectively. It was discussed how chatbots have helped 
+streamline customer service and enhance user satisfaction by providing 24/7 support. 4. 
+Shifting Paradigms in the Indian OTT Market: A Comparative Analysis of Platform Dynamics, 
+Consumer Behavior, and Content Strategy Post-COVID-19: Ms. Preeti delved into the 
+
+transformation of the Indian OTT (Over-the-top) media market post-COVID-19. The 
+presentation provided a comprehensive analysis of consumer behaviour shifts, platform 
+strategies, and the impact of content diversification on viewer preferences. The speaker 
+highlighted how OTT platforms have become more than just entertainment providers, evolving 
+into critical tools for social engagement and content personalization. 5. Use of Neural Networks 
+as Customer Service in Artificial Intelligence: This presentation focused on how neural 
+networks, a key component of AI, are revolutionizing customer service. The presentation 
+focused on how AI-driven algorithms are being applied in customer service functions, 
+improving the accuracy of responses and customer satisfaction. He discussed specific neural 
+network models that enhance interaction quality and response times for businesses. 6. 
+Moonlighting and Employee Well-Being: A Literature Review: Dr. Shaily Saxena provided a 
+detailed literature review on the growing trend of moonlighting and its effects on employee 
+well-being. She discussed the pros and cons of holding multiple jobs, particularly in the gig 
+economy, and how it affects both productivity and mental health. The presentation offered key 
+insights into the evolving nature of work-life balance in modern corporate environments. 7. A 
+Review on the Impact of Brand Awareness on Brand Loyalty of Female Consumers Toward 
+Apparel in Haryana: This presentation reviewed how brand awareness affects brand loyalty 
+among female apparel consumers in Haryana. Ms. Priyanka presented data-backed findings, 
+showing that high brand awareness significantly enhances consumer loyalty. She highlighted 
+factors such as quality, customer service, and perceived value as key determinants in building 
+long-term relationships with consumers. 8. Study of Online Women Apparel Market and Its 
+Effect on Purchase Intention & Satisfaction Among Gen Y & Gen Z in Delhi NCR: Ms. Smriti 
+Kaushik presented on the impact of the online women’s apparel market on the purchasing 
+intentions and satisfaction levels of Generation Y and Z in Delhi NCR. The study highlighted 
+key consumer preferences, price sensitivity, and the influence of social media on fashion 
+choices. The data provided showed clear generational differences in consumption patterns and 
+satisfaction factors. 9. A Study of Consumer Consciousness in Delhi-NCR under CPA 2019: 
+This presentation focused on consumer awareness in Delhi-NCR, examining the impact of the 
+Consumer Protection Act (CPA) of 2019. It analyzed the rise in consumer consciousness 
+regarding their rights and the increasing demand for transparency and accountability from 
+businesses. 10. Factors Influencing the Intention to Purchase Vegan Food: The final 
+presentation explored the growing trend of vegan food consumption. It included factors 
+influencing consumers' intention to purchase vegan products, including health consciousness, 
+environmental concerns, and ethical motivations. They provided an analysis of the current 
+market landscape and shared predictions for future growth in the vegan food sector. Conclusion 
+and Recognition The session concluded with a motivating address by the session chair, Dr. 
+
+Yasmeen Rizvi, and co-chair, Dr. Ratika Sikand. Both emphasized the importance of 
+continuous learning and adapting to technological advancements. The best presenters Dr. 
+Aaruni Batta and Ms. Smriti Kaushik were recognized for their outstanding contributions, and 
+the session ended with a group photograph to commemorate the event. Overall, the conference 
+provided an in-depth exploration of how emerging technologies are shaping the future of 
+various industries, particularly in the context of India’s digital transformation. This report 
+summarizes the key presentations and discussions from Track 4 of the ICETTM 2024, 
+emphasizing the value of the conference in fostering knowledge sharing and professional 
+growth in the fields of technology and management. 
+ 
+ 
+• 
+Date: October 16,2024 
+• 
+Time: 11AM to 1:00 PM 
+• 
+Venue: 7th block . 
+
+• 
+Organized By: Department of management, Maharaja Agrasen Institute Of 
+Technology.  
+• 
+Mode : Online  
+ 
+Report on Track 5 of ICETTM 2024 Online Session 
+The International Conference on Emerging Trends in Technology and Management (ICETTM) 
+2024, organized to explore and evaluate critical global and domestic issues in business, 
+technology, and management, provided a platform for experts and professionals to share 
+insights. This report focuses on the proceedings of Track 5, where a series of presentations 
+highlighted various emerging trends and innovations in technology and management. 
+Introduction 
+Hosted by Sanya Mittal and Satyam Mittal, the session began with introductions and 
+acknowledgments of the dignitaries present, including Prof. Supriya Dhillon and Dr. Neeru 
+Gupta, who chaired and co-chaired the session. The hosts emphasized the importance of the 
+conference as a space for knowledge sharing and thought leadership, particularly regarding 
+technological advancements and managerial practices. After a brief overview of the session’s 
+rules, the presentations commenced. 
+Out of 11 registered teams for this track, 10 teams presented in the online session. 
+  
+Presentations Overview 
+1. Dr. Mamta Aggarwal, Dr. Ajay Bamba, Priya Gupta 
+Topic: Sustainability through Women’s Financial Well-being: The Synergistic Effect of 
+Financial 
+Literacy, 
+Inclusion, 
+and 
+Self-efficacy 
+Summary: This research explores how enhancing financial literacy among women can 
+promote financial inclusion and self-efficacy, leading to improved financial well-being. The 
+study emphasizes the importance of empowering women as a means to achieve broader 
+sustainability goals. 
+  
+  
+2. Dr. Ishwar Sharma, Prof. Ravi Kumar Gupta, Bhawana Verma, Chanchal Saini 
+Topic: 
+Interlinkage 
+and 
+Portfolio 
+Optimization 
+Across 
+Global 
+ESG 
+Stocks 
+Summary: This paper analyzes the interconnectedness of environmental, social, and 
+governance (ESG) factors in global stock markets. The authors propose strategies for 
+optimizing investment portfolios that prioritize ESG criteria, aiming to enhance both financial 
+returns and social impact. 
+
+3. Prof. Tej Singh, Dr. Meera Bamba, Bharti Verma 
+Topic: Unveiling the Financial Impacts of ESG Dimensions: Evidence from Indian Firms 
+Summary: The research investigates how various ESG dimensions affect financial 
+performance in Indian companies. The findings highlight the significant influence of 
+responsible corporate practices on profitability and investor perceptions. 
+4. Dr. Mamta Aggarwal, Dr. Meera Bamba, Indu Bansal 
+Topic: From GFC to the Russian-Ukrainian War: Asian Stock Market Responses to Crises 
+Summary: This study examines the reactions of Asian stock markets to major geopolitical 
+crises, including the Global Financial Crisis and the ongoing conflict in Ukraine. The authors 
+analyze market volatility and investor behavior in response to these events. 
+5. Dr. Meera Bamba, Dr. Mamta, Monika 
+Topic: The Asymmetric Effect on Returns of Commodity Futures in Emerging Economies: 
+Empirical 
+Evidence 
+from 
+the 
+Indian 
+Market 
+Summary: This research investigates the asymmetric effects of commodity futures on returns 
+in emerging markets, specifically focusing on India. The findings contribute to understanding 
+how market conditions influence commodity pricing and investor strategy. 
+6. Himanshi, Dr. Manisha Manchanda 
+Topic: The FOMO Effect: How Fear of Missing Out Shapes Investor Decisions 
+Summary: This paper explores the psychological phenomenon of FOMO (Fear of Missing 
+Out) and its impact on investment decisions. The authors discuss how social dynamics and 
+emotional factors influence market behavior and decision-making among investors. 
+7. Dr. Dalbir Singh, Rachna 
+Topic: Opportunities and Challenges of Micro Enterprises in Collateral-Free Credit Scheme 
+Summary: This study assesses the effectiveness of collateral-free credit schemes for micro-
+enterprises, highlighting both opportunities for growth and challenges in access to finance. The 
+authors suggest policy recommendations for improving support for small businesses. 
+  
+  
+8. Sunita Chhikara, Dr. Ritu Gupta 
+Topic: The Impact of Psychological Factors on Investors’ Decision Making in the Indian Stock 
+Market 
+Summary: This research delves into the psychological aspects that affect investor behavior in 
+the Indian stock market. The study identifies key psychological biases that influence decision-
+making processes and market outcomes. 
+9. Shikha, MBA, MAIT, Dr. Neeru Gupta 
+
+Topic: 
+Competition 
+Compliance 
+Programs 
+Across 
+Different 
+Countries 
+Summary: This paper compares competition compliance programs implemented in various 
+countries, analyzing their effectiveness and impact on promoting fair competition. The authors 
+highlight best practices and potential areas for improvement. 
+10. Rashmi, Dr. Sapna Bansal 
+Topic: Enhancing Public Sector Transparency and Accountability through IPSAS: The Indian 
+Experience 
+Summary: This research examines the adoption of International Public Sector Accounting 
+Standards (IPSAS) in India and its implications for transparency and accountability in the 
+public sector. The authors discuss the challenges and benefits of IPSAS implementation. 
+  
+Conclusion and Recognition 
+The session concluded with a motivating address by the session chair, Prof. Supriya Dhillon, 
+and co-chair, Dr. Neeru Gupta. Both emphasized the importance of continuous learning and 
+adapting to technological advancements. The best Bhawana Verma and Priya Gupta were  
+recognized for their outstanding contributions, and the session ended with a group photograph 
+to 
+commemorate 
+the 
+event. 
+ 
+ 
+Overall, the conference provided an in-depth exploration of how emerging technologies are 
+shaping the future of various industries, particularly in the context of India’s digital 
+transformation. 
+This report summarizes the key presentations and discussions from Track 5 of the ICETTM 
+2024, emphasizing the value of the conference in fostering knowledge sharing and professional 
+growth 
+in 
+the 
+fields 
+of 
+technology 
+and 
+management. 
+ 
+ 
+
+ 
+ 
+ 
+• 
+Date: October 16,2024 
+• 
+Time: 11AM to 1:00 PM 
+• 
+Venue: 7th block . 
+• 
+Organized By: Department of management, Maharaja Agrasen Institute Of 
+Technology.  
+• 
+Mode : Online  
+ 
+Report on Track 6 of ICETTM 2024 Online Session 
+The International Conference on Emerging Trends in Technology and Management (ICETTM) 
+2024, organized to explore and evaluate critical global and domestic issues in business, 
+
+technology, and management, provided a platform for experts and professionals to share 
+insights. This report focuses on the proceedings of Track 6, where a series of presentations 
+highlighted various emerging trends and innovations in technology and management. 
+Introduction 
+Hosted by Bhavini Jain and Avinash kaushik, the session began with introductions and 
+acknowledgments of the dignitaries present, Dr.Jyotsna Yadav and Dr. Sanjeev Kumar, who 
+chaired and co-chaired the session. The hosts emphasized the importance of the conference as 
+a space for knowledge sharing and thought leadership, particularly regarding technological 
+advancements and managerial practices. After a brief overview of the session’s rules, the 
+presentations commenced. 
+Out of 15 registered teams for this track, 11 teams presented in the online session. 
+  
+Presentations Overview 
+1. A Road from E-Governance to M-Governance: A Paradigm Shift in Technology 
+Presented 
+by 
+Ms. 
+Neha 
+Sagar 
+and 
+Dr 
+.Syed 
+Nadimul 
+Haque. 
+Ms. Sagar discussed the evolution from electronic governance to mobile governance, 
+highlighting technological advancements and their societal implications.Audience 
+explored implementation challenges. 
+2. A Study on Banking Industry & AI Used with Reference to ICICI Bank 
+Presented 
+by 
+Dr. 
+Shaheda 
+Sheikh.  
+She analyzed the integration of AI in the banking sector, focusing on ICICI Bank's 
+innovative practices. Participants showed interest in AI's future role in banking. 
+  
+  
+3.  The Comprehensive Review of Numerous Disruptive Technologies Implemented 
+in Higher Education Presented by Ms. Jyotsna and Dr. Manisha Manchanda 
+This review highlighted various disruptive technologies shaping higher education, addressing 
+both benefits and challenges, and engaged discussions about the future of educational 
+technologies. 
+4.  Role of Artificial Intelligence in Finance and Accounting - A Review 
+Presented by Dr. Nidhi Gupta, Dr. Anupama and Dr. Pooja Sharma. 
+Dr. Gupta reviewed AI's impact on finance and accounting practices, emphasizing 
+automation and efficiency. Audience inquired about practical applications 
+5. Classification of Brain Tumor Using Deep Learning Presented by Manisha Siyag 
+and Dr. Maitreyee Dutta.Manisha presented her research on utilizing deep learning for 
+
+brain tumor classification, discussing methodologies and results.Discussions focused 
+on improvements and ethical considerations 
+6. Refinement of RSSI-Based Localization Algorithm for Underground Mine 
+Monitoring via Wireless Sensor Networks Presented by Shailendra Kumar Rawat, 
+Sanjay Kumar Singh and Uttam Kumar Singh. 
+This presentation discussed enhancements to localization algorithms for monitoring 
+underground mines. Attendees raised practical application questions. 
+7. Bacteria Image Classification Using Deep Learning Model presented by Manju 
+Kumari and Dr. Amit Doegar , Where Manju showcased her work on classifying 
+Bacteria images using deep learning techniques and the  Participants discussed the 
+model's technical aspects 
+8. A Review on Electroencephalography (EEG) Signals Using Machine Learning 
+Techniques which was presented by Vandna and Dr.Banita.  
+Vandna reviewed machine learning applications in analyzing EEG signals for neurological 
+insights.Attendees inquired about its medical implications. 
+9. Design 
+& 
+Development 
+of 
+Sign 
+Language 
+Recognition 
+System 
+Presented 
+by 
+Dr. 
+Aditi 
+Sharma 
+and 
+Archana 
+This presentation focused on creating a system for recognizing sign language to 
+enhance accessibility. Attendeed discussed its applications in education and 
+communication. 
+10. Digital Payments and Consumer Experience in Delhi: A Survey-Based Empirical 
+Study 
+which was Presented by Baharika Arora and Dr.Radhika Thapar.in which Baharika 
+conducted a survey examining digital payment experiences among consumers in Delhi. 
+Participants asked about the survey findings and methodologies. 
+11. The Impact of Social Media Influencers on Generation Z Purchase Intention with 
+Special Reference to Delhi presented by Tanishka Goel and Dr. Radhika Thapar 
+Where Tanishka explored the role of social media influencers on consumer behavior.to study 
+the significant impact of Social Media Influencers on Generation Z’s purchasing decisions. 
+  
+  
+Conclusion and Recognition 
+The session concluded with a motivating address by the session chairs, Dr.Jyotsna Yadav and 
+Dr.Sanjeev Kumar. Both emphasized the importance of continuous learning and adapting to 
+technological advancements. The best presenters Manisha Siyag and Manju Kumari were  
+
+recognized for their outstanding contributions, and the session ended with a group photograph 
+to commemorate the event. 
+Overall, the conference provided an in-depth exploration of how emerging technologies are 
+shaping the future of various industries, particularly in the context of India’s digital 
+transformation. 
+This report summarizes the key presentations and discussions from Track 6 of the ICETTM 
+2024, emphasizing the value of the conference in fostering knowledge sharing and professional 
+growth in the fields of technology and management.  
+  
+ 
+ 
+ 
+ 
+

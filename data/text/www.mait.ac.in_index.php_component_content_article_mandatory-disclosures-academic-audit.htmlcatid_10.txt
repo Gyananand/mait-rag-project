@@ -1,0 +1,44 @@
+SOURCE_URL: https://www.mait.ac.in/index.php/component/content/article/mandatory-disclosures-academic-audit.html?catid=10&Itemid=384
+
+Academic Audit proforma
+ANNEXURE:
+01.     Annexure-B (b) Programme-wise list of Faculty
+02.     Annexure-B (c)-(i)-Odd Sem Programme-wise Class-wise Timetable
+03.     Annexure-B (c)-(ii)-Even Sem Programme-wise Class-wise Timetable
+04.     Annexure-1 (b)-Status of Accreditation NBA
+05.     Annexure-2(b) List of Faculty
+06.     Annexure-3(a) No. of Teachers with Ph. D. (awarded)
+07.     Annexure-3(b to d) Detail of Publications
+08.1.  Annexure-3(c-i) No. of publications in conferences in the assessment year Indexed by WoS SCOPUS-24
+08.2.  Annexure-3(c-ii) No. of publications in conferences in the assessment year With ISBN Number
+08.3.  Annexure-3(c-iii) No. of publications in conferences in the assessment year (any other)
+08.4.  Annexure-3(c-iv) No. of Patents Published or Granted
+09.     Annexure-3(d) No. of Books Authored or Edited Books
+10.     Annexure-3(g) Courses Teaching plan
+11.     Annexure-3(f) Learning Management System
+12.     Annexure-3-(i) Classrooms available and ICT facilities
+13.     Annexure-4 (a) Documentary evidence of awards
+14.     Annexure-4 (b) Documentary evidence of mechanism for grant of study leave
+15.     Annexure-4 (c) Documentary evidence of grant of funds
+16.     Annexure-4 (d-e) Individual computing facilities + Internet facilities
+17.     Annexure-5(a-g) Students_ Grievance Redressal Mechanism
+18.     Annexure-6(a)-(b) Percentage of faculty participation in university examination
+19.     Annexure-7 (a-b) Status of Library
+20.     Annexure 8-(a)-Status of Laboratories other than Computer Labs
+21.     Annexure 8-(b)-Status of Computer Labs
+22.     Annexure 9 (a) Conferences Organized
+23.     Annexure 9 (b-f) Seminars Organized, FDP, Workshop, Short Term Value Added Programmes
+24.     Annexure-10 (a)-Publication of Journal
+25.     Annexure-10 (b) Publication of Newsletters and Magazines
+26.     Annexure 11 (a) Activities like mock interview, role play, group discussions, quizzes, workshops, competitions, etc
+27.     Annexure-11(b) Personality Development Labs etc
+28.     Annexure-11(c) Sports facilities in the Institutions
+29.     Annexure-12 (a) Status of Placement-B.Tech
+30.1.  Annexure-12 (b) Status of Placement-MBA & BBA
+30.2.  Annexure-12(c) EDC
+31.     Annexure 13 (i)-(v) General Parameters about the Institution
+32.1.  Annexure 14(a)(i)-Faculty Feedback
+32.2.  Annexure 14(a)(ii)-Employers Feedback
+33.     Annexure 14(b)(i)-Students Feedback
+34.     Annexure 14(b)(ii)-Alumni Feedback
+35.     Annexure-15 Removal or Completions of Identified Deficiencies

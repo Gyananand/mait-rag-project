@@ -1,0 +1,164 @@
+SOURCE_URL: https://www.mait.ac.in/index.php/component/content/article/final-date-sheet-for-mid-term-examination-sep-oct-2025-only-for-students-of-mait.html?catid=9&Itemid=384
+
+Guru Gobind Singh Indraprastha University
+Final Date Sheet for Mid-Term Examination, Sep-Oct,2025
+(Only for Students of MAIT)
+B.Tech (CSE / IT / CST / ITE /CSE-AI / CSE-AIML / CSE-DS / CSE-CS / CS / CSAM / ECE / EE-VDT /
+EC-ACT / EE/ EEE / ICE / CE / ME / MAE)
+Date & Day
+Semester I
+10:00 to 11:30 AM
+Semester III
+12:30 to 02:00 PM
+Semester V
+10:00 to 11:30 AM
+Semester VII
+12:30 to 02:00 PM
+29-09-2025Monday
+New Scheme (for 2025 Batch onwards)
+ES-101 Programming in 'C'
+BS-103 Applied Chemistry
+New Scheme (for 2021 Batch onwards)
+ES-201 Computational Methods (All Branches)
+New Scheme (for 2021 Batch onwards)
+HS-301 Economics for Engg. (All Branches)
+New Scheme (for 2021 Batch onwards)
+MS-401 Principles of Entrepreneurship Mindset (All Branches)
+30-09-2025Tuesday
+New Scheme (for 2025 Batch onwards)
+ES-107 Electrical Science
+BS-109 Environmental Studies
+New Scheme (for 2021 Batch onwards)
+CIC-205 Discrete Mathematics
+(CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS/CSE-CS/CS/CSAM)
+ECC-205 Signals and Systems
+(ECE/EE-VDT/EC-ACT/EE/EEE)
+ICC-205 Engineering Electromagnetics (ICE)
+MEC-205 Theory of Machines
+(MAE/ME)
+CEC-205 Structural Analysis-I
+(CE)
+New Scheme (for 2021 Batch onwards)
+CIC-303 Compiler Design (CSE/IT/CST/ITE/CSE-AI/CSE-AIML /CSE-DS/CSE-CS/CS)
+ECC-303 Digital Signal Processing (ECE/EE-VDT/EC-ACT /ICE)
+EEC-303 Power Systems-II (EE/EEE)
+CEC-303 Structural Analysis-II (CE)
+MEC-303 Machine Design-II (ME)
+MAC-303 Machine Design-I
+(MAE)
+PCE-4
+AIDS-409T  Business Intelligence & Analytics (AIDS)
+AIML-409T Predictive Business Analytics (AIML)
+CIE-405T Data Science (CSE/CST/IT/ITE)
+MEE-405T Computer integrated Manufacturing
+(
+ME)
+ECE-415  Engineering Optimization (ECE)
+EEE‐407  Renewable Energy and Policies (EEE)
+MAC-403  Computer Integrated Manufacturing (MAE)
+01-10-2025Wednesday
+New Scheme (for 2025 Batch onwards)
+ES-119 Manufacturing Process
+New Scheme (for 2021 Batch onwards)
+CIC-211 Object Oriented Programming using C++
+(CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS/CSE-CS/CS)
+AM-221: Linear Algebra and Calculus (CSAM)
+ECC-211 Analog Electronics-I (ECE/EE-VDT/EC-ACT)
+EEC-211 Electrical Machines-I (EE/EEE)
+EEC-207 Electrical Machines (ICE)
+MEC-211 Thermal Engineering-I (ME)
+ECC-217 Analog & Digital Electronics (MAE)
+CEC-211 Geomatics Engineering (CE)
+New Scheme (for 2021 Batch onwards)
+CIC-307 Computer Networks (CSE/IT/CST/ITE/CSE-AI/CSE-AIML /CSE-DS/CSE-CS)
+CIC-317: Programming in Java (CS)
+EEC-307 Introduction to Control Systems (ECE/EE-VDT/EC-ACT /EE/EEE/ICE)
+CEC-307 Geotechnical Engineering (CE)
+MEC-307 Metrology and Instrumentation (ME)
+MAC-313 Control Systems and Applications (MAE)
+PCE-5
+AIDS-411T  Advances in Data Science (AIDS)
+AIML-411T Advances in Machine Learning (AIML)
+CIE-425T Data Warehousing and Data Mining (CSE/CST-AIML & MLDA)
+CIE-429T Web Intelligence and Big Data Analytics (ITE)
+MEE-413T Strength of Materials-II (ME)
+CIE-421T Machine Learning  (CSE/CST-FSD)
+ECE-429T  Introduction to Internet of Things (ECE)
+CIE-431T Web Mining (IT)
+EEE‐423  Energy Conservation Schemes (EEE)
+MAC-405  Embedded Systems and Internet of Things (MAE)
+03-10-2025Friday
+New Scheme (for 2025 Batch onwards)
+BS-111Applied Mathematics-I
+New Scheme (for 2021 Batch onwards)
+CIC-209 Data Structures (CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS/CSE-CS/CS/CSAM)
+ECC-209 Analog Communications (ECE/EE-VDT/EC-ACT)
+EEC-209 Electrical Materials (EE/EEE)
+ECC-219 Analog Electronics (ICE)
+MEC-209 Manufacturing Science & Technology-I (MAE/ME)
+CEC-209 Fluid Mechanics (CE)
+New Scheme (for 2021 Batch onwards)
+CIC-305 Operating Systems (CSE/IT/CST/ITE/CSE-AI/CSE-AIML /CSE-DS/CSE-CS)
+CIC-315: Database Management System (CS)
+ECC-305 Microelectronics (ECE/EE-VDT/EC-ACT)
+EEC-305 Electrical & Electronics Measuring Instruments (EE/EEE)
+CIC-313 Computer Networks (ICE)
+CEC-305 Structural Design-II (CE)
+MEC-305 Fluid Mechanics and Hydraulic Machines (ME)
+MAC-311 Sensors and  Transducers (MAE)
+EAE/OAE-3
+CADM-401T Computational Fluid Dynamics (ME-CAD)
+EV‐413T  EV Charging Infrastructure Technology (EEE-EV)
+FSD-435T PHP Programming and MYSQL  (CSE/CST/IT/ITE-FSD)
+MAO-417T Data Science (MAE)
+ML-407T Machine Learning (CSE/CST/IT/ITE/ECE/EEE/ME-AIML)
+VLSI 443T- CMOS Analog Integrated Circuit Design ( ECE-VLSI)
+OAE-421T Digital and Smart Cities (AIML/AIDS)
+04-10-2025Saturday
+New Scheme (for 2025 Batch onwards)
+HS-113 Communication Skills
+New Scheme (for 2021 Batch onwards)
+ECC-213 Electromagnetic Field Theory (EE/EEE)
+New Scheme (for 2021 Batch onwards)
+CIC-309 Software Engineering (CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS/CSE-CS/CS)
+ECC-309 Transmission Lines,  Waveguides and Antenna Design (ECE/EE-VDT/EC-ACT)
+EEC-309 Power Electronics (EE/EEE)
+CEC-309 Environmental Engineering-II (CE)
+MEC-309 Industrial Engineering (ME/MAE)
+ICC-309  Industrial & Optical Instrumentation (ICE)
+EAE/OAE-4
+CADM-403T Computer Aided Design and Drafting (ME-CAD)
+EV‐415  Economics and Policies of e‐Mobility (EEE-EV)
+FSD-437T Mobile App Development (CSE/CST/IT/ITE-FSD)
+ML-409 T Reinforcement Learning and Deep Learning (CSE/CST/IT/ITE/ECE/EEE/ME-AIML)
+VLSI 445T CMOS Digital Circuit Design  (ECE-VLSI)
+OAE-417T Advanced Java Programming  (AIML/AIDS)
+MAC-407 Introduction to Metrology and Instrumentation (MAE)
+06-10-2025Monday
+New Scheme (for 2025 Batch onwards)
+BS-105 Applied Physics-I
+New Scheme (for 2021 Batch onwards)
+ECC-207 Digital Logic And Computer Design (CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS/CSE-CS/CS/ CSAM/ECE/EE-VDT/EC-ACT)
+EEC-213 Circuit & Systems (ICE)
+ECC-215 Electronics-I (EE/EEE)
+CEC-207 Structural Design-I (CE)
+MEC-207 Strength of Materials (MAE/ME)
+New Scheme (for 2021 Batch onwards)
+CIC-311 Design &Analysis of Algorithm (CSE/IT/CST/ITE/CSE-AI/CSE-AIML/CSE-DS/CSE-CS/CS)
+ECC-311 Data Communication and Networking (ECE/EE-VDT/EC-ACT)
+ECC-313 Microprocessors & Microcontrollers (EE/EEE/ICE)
+CEC-311 Traffic Engineering and Pavement Design (CE)
+MEC-311 Heat  and Mass Transfer (ME/MAE)
+EAE/OAE-5
+CADM-405T Industrial Robotics (ME-CAD)
+EV‐417T  Embedded Systems for Electric Vehicles (EEE-EV)
+FSD 439T Web and Mobile Application Testing and Deployment  (CSE/CST/IT/ITE-FSD)
+ML-411 T Pattern Recognition and Computer Vision (CSE/CST/IT/ITE/ECE/EEE/ME-AIML)
+VLSI-449T Low Power VLSI Design (ECE-VLSI)
+ML-469T Machine Learning and Data Analytics Framework (CSE/CST/IT/ITE-MLDA)
+OAE405T Software Verification, Validation and Testing (AIML)
+OAE411T Intelligent and Expert Systems (AIDS)
+MAC-409 Robotics Engineering (MAE)
+Instructions:
+The students should reach inside theallotted Examination Room / Hall atleast 15 minutes before the commencement of the examination.
+Non-programmable Scientific Calculator is allowed. However,Books / any Written / Printed Material, Mobile Phone / Smart Watch / Digital Watch / other Electronic Gadget etc. are not permitted inside the Examination Room / Hall. If any candidate is found with any such material(s) he/she may be booked under unfair means case.

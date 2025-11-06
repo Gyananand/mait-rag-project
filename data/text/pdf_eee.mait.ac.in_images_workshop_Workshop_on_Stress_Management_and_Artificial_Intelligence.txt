@@ -1,0 +1,94 @@
+SOURCE_PDF: eee.mait.ac.in_images_workshop_Workshop_on_Stress_Management_and_Artificial_Intelligence.pdf
+
+ 
+
+Workshop on Stress Management and Artificial Intelligence  
+Introduction 
+This report summarizes the two day workshop organized for the faculty of the Electrical and 
+Electronics Engineering (EEE) Department at MAIT, Rohini on the topics of “Stress 
+Management and Artificial Intelligence (AI)”. The workshop aimed to equip faculty members 
+with effective stress management techniques and introduce them to the latest advancements and 
+applications of AI in the field of engineering. 
+Objectives 
+ 
+To provide strategies and tools for effective stress management. 
+ 
+To introduce the basics and advancements of artificial intelligence. 
+ 
+To explore the applications of AI in electrical and electronics engineering. 
+ 
+To encourage the integration of AI into teaching and research activities. 
+Date and Venue 
+ 
+Date: 8th-9thJune2022 
+ 
+Venue: Room No. 632 
+Sessions 
+Day1 
+Session 1: Stress Management 
+Speaker: Dr Namita Gupta 
+ 
+Introduction to Stress: Understanding the causes and symptoms of stress. 
+ 
+Techniques for Stress Management: Practical strategies such as mindfulness, time 
+management, and relaxation techniques. 
+ 
+Interactive Activities: Breathing exercises, group discussions, and stress-relief activities. 
+ 
+Q&A Session: Addressing specific concerns and queries from faculty members. 
+Session 2: Introduction to Artificial Intelligence 
+Speaker: Dr Amita  
+ 
+Overview of AI: Definition, history, and significance of AI. 
+ 
+Core Concepts of AI: Machine learning, deep learning, neural networks, and natural 
+language processing. 
+
+ 
+AI Tools and Platforms: Introduction to popular AI tools and platforms used in 
+engineering. 
+ 
+Q&A Session: Clarifying doubts and discussing potential AI applications in EEE. 
+Day2 
+Session 1: AI Applications in Electrical and Electronics Engineering 
+Speaker: Dr M. L Sharma 
+ 
+AI in Power Systems: Smart grids, load forecasting, and fault detection. 
+ 
+AI in Control Systems: Adaptive control, robotics, and automation. 
+ 
+AI in Signal Processing: Image and speech recognition, data compression. 
+ 
+Case Studies and Examples: Real-world applications and success stories. 
+ 
+Hands-on Activities: Practical exercises and demonstrations using AI tools. 
+Feedback and Evaluation 
+Participant Feedback 
+Participants were encouraged to provide feedback on the workshop. Key points from the 
+feedback include: 
+ 
+Positive Aspects: 
+o Engaging and knowledgeable speakers. 
+o Practical and interactive sessions. 
+o Valuable insights into stress management and AI. 
+ 
+Suggestions for Improvement: 
+o More hands-on sessions and practical examples. 
+o Follow-up workshops for deeper understanding. 
+o Inclusion of advanced AI topics. 
+Evaluation 
+Based on the feedback and observations, the workshop was successful in achieving its 
+objectives. Faculty members gained valuable knowledge and skills in both stress management 
+and AI, and there was a positive response towards integrating AI into teaching and research. 
+Conclusion 
+The workshop on stress management and artificial intelligence was a significant step towards 
+enhancing the well-being and professional development of the EEE faculty. The insights and 
+skills gained from this workshop are expected to contribute to a more effective and innovative 
+teaching environment. 
+
+ 
+ 
+ 
+ 
+ 
+
