@@ -18,7 +18,7 @@ import time
 # Set your Google API key from Streamlit's secrets
 try:
     # This securely reads the key from your .streamlit/secrets.toml file
-    client = genai.Client(api_key=st.secrets["GEMINI_API_KEY"])
+    client = genai.Client(api_key=st.secrets["AIzaSyB-RMPKHJ-Qslp8hd-bq_HbpVNNLXFy9nA"])
 except Exception as e:
     st.error("Could not find GEMINI_API_KEY in your .streamlit/secrets.toml file.")
     st.stop()
